@@ -1,6 +1,6 @@
 {
-  "version": "4.0.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.0.4/RUN_VEO_3_ULTRA_PROMAX.4.0.4.zip",
-  "sha256": "178a5c640c4f8f44c630ed021e88f023c119d3e1ee426df484d535d3233dfadb",
-  "description":"Fix Auto Update, ULTRA ACOUNT"
+  "version": "4.0.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.0.5/RUN_VEO_3_ULTRA_PROMAX_4.0.5.zip",
+  "sha256": "87de5b70a8d62d765db35c1c8dbf0debd6685d9915c05ab0e52b66b99868bf4f",
+  "description":"Update and prompt from txt"
 }
