@@ -1,6 +1,6 @@
 {
-  "version": "4.0.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.0.3/RUN_VEO_3_ULTRA_PROMAX.4.0.3.zip",
-  "sha256": "693d32a3234c27a501dc3c399dab9d6e5cc2df5ef89895bf31547e2b6abba9c9",
-  "description":"auto Update fix lỗi window power shell"
+  "version": "4.0.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.0.4/RUN_VEO_3_ULTRA_PROMAX.4.0.4.zip",
+  "sha256": "178a5c640c4f8f44c630ed021e88f023c119d3e1ee426df484d535d3233dfadb",
+  "description":"Fix Auto Update, ULTRA ACOUNT"
 }
