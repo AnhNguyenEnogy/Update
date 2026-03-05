@@ -1,6 +1,6 @@
 {
   "version": "4.0.2",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.0.1/RUN_VEO_3_ULTRA_PROMAX_4.0.1.zip",
-  "sha256": "883dd5208877bd502a90b22868013ecf3e2564d38ed92f6893421ee1acaff198",
-  "description":"auto Update tool - get token -debug local"
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.0.2/RUN_VEO_3_ULTRA_PROMAX.4.0.2.zip",
+  "sha256": "2955bbea3597b8d1083a5b936c2a068f741f2d81f0905fc0959371876993138e",
+  "description":"auto Update tool debug local"
 }
