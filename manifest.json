@@ -1,6 +1,6 @@
 {
-  "version": "4.1.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.1.1/RUN_VEO_3_ULTRA_PROMAX_4.1.1.zip",
-  "sha256": "b70ecf9e3755ffe2365c7d0d33a7cd72a632a4042c39b0bf04865c9bff9eb3c9",
-  "description":"Update check cookie"
+  "version": "4.1.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.1.2/RUN_VEO_3_ULTRA_PROMAX_4.1.2.zip",
+  "sha256": "58d471bdd49422bf33602b4ddf57cabbc59b03b7bd25f9fc593d5b963d38e9a5",
+  "description":"Update save tab when change main tab"
 }
