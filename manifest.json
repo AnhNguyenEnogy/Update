@@ -1,6 +1,6 @@
 {
-  "version": "4.1.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.1.4/RUN_VEO_3_ULTRA_PROMAX_4.1.4.zip",
-  "sha256": "a2befecb440a6efa38bf82183442f705002bfe88fb02e9daefd07d7ff2d6ba66",
-  "description":"Update change image mode"
+  "version": "4.1.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.1.5/RUN_VEO_3_ULTRA_PROMAX_4.1.5.zip",
+  "sha256": "f7f9c57d0259999efe00ba6c3c3323f83bc65f2b17bf0a15f216d532f8ef6f20",
+  "description":"Add new feature: Phân Tích video"
 }
