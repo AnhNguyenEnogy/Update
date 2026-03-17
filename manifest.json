@@ -1,6 +1,6 @@
 {
-  "version": "4.1.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.1.6/RUN_VEO_3_ULTRA_PROMAX_4.1.6.zip",
-  "sha256": "7262e45a65421457c0809ca2864b534f17565675b4bfd0b3dfec78ba98fcf666",
-  "description":"Add new feature: Phân Tích video"
+  "version": "4.1.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.1.8/RUN_VEO_3_ULTRA_PROMAX_4.1.8.zip",
+  "sha256": "f1ccabb80ee2e7d9bc6f9873060e761bfa5cc70d8d444dc1cee56f0d4fcc31c3",
+  "description":"Update phân tích video từ file excel"
 }
