@@ -1,6 +1,6 @@
 {
-  "version": "4.2.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.2.0/RUN_VEO_3_ULTRA_PROMAX_4.2.0.zip",
-  "sha256": "sha256:3321d77531e18bd18f94e853144c2c37b446ed44be615a4d78eaee4941ee7a7c",
-  "description":"Update license key"
+  "version": "4.2.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.2.1/RUN_VEO_3_ULTRA_PROMAX_4.2.1.zip",
+  "sha256": "sha256:46d2ae3eeb818328ba2da978a3f1bf84b85adde631a44f0b93fb0369bcc4504e",
+  "description":"Fix download video tiktok"
 }
