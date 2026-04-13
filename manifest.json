@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.0/RUN_VEO_3_ULTRA_PROMAX_4.4.0.zip",
-  "sha256": "sha256:c47e97dd438889ff4664c94a54310e558562ac07e162795711e35154a1aa3858",
-  "description":"UPdate login tự động, Thêm voice. Upscale Ảnh 4K"
+  "version": "4.4.0.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.0.1/RUN_VEO_3_ULTRA_PROMAX_4.4.0.1.zip",
+  "sha256": "sha256:d076cb1b71b583e0d15412135167be62067b754bc245a3a7cbbe43f408d996b2",
+  "description":"Thêm Chức năng phân tích video từ chrome"
 }
