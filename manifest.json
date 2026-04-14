@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.0.1/RUN_VEO_3_ULTRA_PROMAX_4.4.0.1.zip",
-  "sha256": "sha256:d076cb1b71b583e0d15412135167be62067b754bc245a3a7cbbe43f408d996b2",
-  "description":"Thêm Chức năng phân tích video từ chrome"
+  "version": "4.4.0.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.0.2/RUN_VEO_3_ULTRA_PROMAX_4.4.0.2.zip",
+  "sha256": "sha256:cfb763989361656de47580bc2d0597a1bcd0713a58db8fd92c3c1fa812350088",
+  "description":"Thêm Chức năng phân tích video từ chrome, tăng thời gian chờ"
 }
