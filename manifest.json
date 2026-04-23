@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.0.4/RUN_VEO_3_ULTRA_PROMAX_4.4.0.4.zip",
-  "sha256": "sha256:1d72789ed2ccef1f5d5345503906569a2bb1c45e1319175a4f22a0aa25bd61a5",
-  "description":"Update phân tích video nhanh hơn"
+  "version": "4.4.0.6",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.0.6/RUN_VEO_3_ULTRA_PROMAX_4.4.0.6.zip",
+  "sha256": "sha256:f1070139538ecd12d0bbb3b0c2f84cb3934da235272ef5aac750729d72b02026",
+  "description":"Update affiliate, thêm viết prompt bằng chrome, fix lỗi thừa thiếu nhân vật"
 }
