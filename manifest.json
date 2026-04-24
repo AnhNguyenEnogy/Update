@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.0.7/RUN_VEO_3_ULTRA_PROMAX_4.4.0.7.zip",
-  "sha256": "sha256:89a7482b0a2b2530ede8690d89402a840d369ceef09d7ac3eb2c23938d2566ed",
-  "description":"Update fix phân tích video"
+  "version": "4.4.0.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.0.8/RUN_VEO_3_ULTRA_PROMAX_4.4.0.8.zip",
+  "sha256": "sha256:d7807f48774bbc570a50634919947fa44dc6ff23a4e71cc828a241b107a1c27e",
+  "description":"Update fix phân tích video bằng excel"
 }
