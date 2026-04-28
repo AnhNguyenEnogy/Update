@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v1.0.6/RUN_1.0.6.zip",
-  "sha256": "sha256:4a1466cc08eea0491a3407997f8b49cf695e5856df2efa95b8369dd57973bb1e",
-  "description":"Auto download video FB TT YTB"
+  "version": "v1.0.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v1.0.8/DOWNLOAD_V_1.0.8.zip",
+  "sha256": "sha256:91667ea418477c2d19ac51ef35a4db445a14e8eb085f21824a9c78860d6ff7ed",
+  "description":"Fix lỗi ký tự đặc biệt"
 }
