@@ -1,6 +1,6 @@
 {
-  "version": "4.4.1.9",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.1.9/RUN_VEO_3_ULTRA_PROMAX_4.4.1.9.zip",
-  "sha256": "sha256:2b6e48c850396ad1054d910249e156fdb54d6bdd637f5d6523cc61850e1dc824",
-  "description":"Update Phân tích video, affiliate sản phẩm, check account"
+  "version": "4.4.2.0",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.2.0/RUN_VEO_3_ULTRA_PROMAX_4.4.2.0.zip",
+  "sha256": "sha256:e52e7e4c4d57846eeefa2777e41b496cefd64c59f84135d3e739b94a2f19084b",
+  "description":"Update chạy model Lower Priority, thêm thời gian 4s 6s với mode tạo video từ văn bản. từ ảnh"
 }
