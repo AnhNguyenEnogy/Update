@@ -1,6 +1,6 @@
 {
-  "version": "4.4.2.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.2.0/RUN_VEO_3_ULTRA_PROMAX_4.4.2.0.zip",
-  "sha256": "sha256:e52e7e4c4d57846eeefa2777e41b496cefd64c59f84135d3e739b94a2f19084b",
-  "description":"Update chạy model Lower Priority, thêm thời gian 4s 6s với mode tạo video từ văn bản. từ ảnh"
+  "version": "4.4.2.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.2.1/RUN_VEO_3_ULTRA_PROMAX_4.4.2.1.zip",
+  "sha256": "sha256:3d5d8d09464096407a1be28798774e19c0c64e1c0fa6c6e285f25c796e9a5c99",
+  "description":"Xóa Fast lower priority , Thêm model LITE lower priority"
 }
