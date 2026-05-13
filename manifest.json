@@ -1,6 +1,6 @@
 {
-  "version": "4.4.2.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.2.1/RUN_VEO_3_ULTRA_PROMAX_4.4.2.1.zip",
-  "sha256": "sha256:3d5d8d09464096407a1be28798774e19c0c64e1c0fa6c6e285f25c796e9a5c99",
-  "description":"Xóa Fast lower priority , Thêm model LITE lower priority"
+  "version": "4.4.2.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.2.2/RUN_VEO_3_ULTRA_PROMAX_4.4.2.2.zip",
+  "sha256": "sha256:934465c2fe9eccaf14bbaf25ebe3410953b80ad71e3cd5464427b80e19fd8794",
+  "description":"UPDATE API theo google"
 }
