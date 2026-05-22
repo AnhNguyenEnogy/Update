@@ -1,6 +1,6 @@
 {
-  "version": "4.4.3.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.3.1/RUN_VEO_3_ULTRA_PROMAX_4.4.3.1.zip",
-  "sha256": "sha256:0323d2e86333d783a95eb4d02af0464799b437936b43a6489b70d487e80fa876",
-  "description":" Update thêm cách lấy captcha v2"
+  "version": "4.4.3.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.3.2/RUN_VEO_3_ULTRA_PROMAX_4.4.3.2.zip",
+  "sha256": "sha256:e26f5ff333184e7016a47635323e898af67cd51e728917c35570fd80cead5ddc",
+  "description":" Thêm chức năng. cắt ghép video, tối ưu hiệu suất"
 }
