@@ -1,6 +1,6 @@
 {
-  "version": "4.4.3.2",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.3.2/RUN_VEO_3_ULTRA_PROMAX_4.4.3.2.zip",
-  "sha256": "sha256:e26f5ff333184e7016a47635323e898af67cd51e728917c35570fd80cead5ddc",
-  "description":" Thêm chức năng. cắt ghép video, tối ưu hiệu suất"
+  "version": "4.4.3.3",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.3.3/RUN_VEO_3_ULTRA_PROMAX_4.4.3.3.zip",
+  "sha256": "sha256:583866c480bdb884ed7f404ab9388ea4158ba56476a397061ad76490a2da0c29",
+  "description":" Thêm retry khi lỗi từ google. update giao diện. cái thiện hiệu suất. tăng tính ổn định"
 }
