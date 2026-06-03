@@ -1,6 +1,6 @@
 {
-  "version": "4.4.5.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.5.1/RUN_VEO_3_ULTRA_PROMAX_4.4.5.1.zip",
-  "sha256": "sha256:14abb3710e8050bfd9f157e51ac5bceab9434775e5330484d088e761f1756df6",
-  "description":"Tối ưu giao diện mượt mà hơn "
+  "version": "4.4.5.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.4.5.2/RUN_VEO_3_ULTRA_PROMAX_4.4.5.2.zip",
+  "sha256": "sha256:be18699583aff193ac375fbb5c601a40b96c93d162192bb7f20f28769b95f69e",
+  "description":"Tối ưu giao diện mượt mà hơn, fix lỗi đồng bộ nv "
 }
