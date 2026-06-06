@@ -1,6 +1,6 @@
 {
-  "version": "4.4.5.5",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.5.5/RUN_VEO_3_ULTRA_PROMAX_4.4.5.5.zip",
-  "sha256": "sha256:9ccbfe1338eea9fd83d1d00451d809958da41abd1e2da3e8dd85eb254e498391",
-  "description": "Cập nhật V4.4.5.5:\n- Đồng bộ cookie xác thực trong luồng Workflow Node.\n- Căn chỉnh hiển thị ô prompt tab Nhật ký.\n- Sửa lỗi mở đúp ảnh/video khi bấm xem thử.\n- Tối ưu hóa dọn dẹp .build folder."
+  "version": "4.4.5.6",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.5.6/RUN_VEO_3_ULTRA_PROMAX_4.4.5.6.zip",
+  "sha256": "sha256:41e814698d53dcb3954d11394710d06e0b3a90fff589cdd367e579f61460219a",
+  "description": "Cập nhật V4.4.5.6:\n- Sửa lỗi tự động làm mới Google access token (AutoToken) khi chạy trong môi trường EXE đóng gói.\n- Đồng bộ cookie xác thực trong luồng Workflow Node.\n- Căn chỉnh hiển thị ô prompt tab Nhật ký.\n- Sửa lỗi mở đúp ảnh/video khi bấm xem thử.\n- Tối ưu hóa dọn dẹp .build folder."
 }
