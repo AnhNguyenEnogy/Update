@@ -1,6 +1,6 @@
 {
-  "version": "4.4.5.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.5.7/RUN_VEO_3_ULTRA_PROMAX_4.4.5.7.zip",
-  "sha256": "sha256:6cc0c35b3e234074711b5c5f2d1ec2b2330ffe2df5d529968f5a29324af43d4d",
-  "description": "Cập nhật V4.4.5.7:\n- Khắc phục lỗi tạo ảnh từ ảnh tham chiếu (BUG-044) bị lỗi 400 do batchId và sessionId.\n- Tách biệt cache upload ảnh theo tool_type sửa lỗi Google 500 khi chạy sau video.\n- Đồng bộ logic nạp account context và payload tạo ảnh trong workflow.\n- Tự động hạ xuống model Lite/Lower Priority từ config nếu node mặc định FAST.\n- Đồng bộ Cookie xác thực trong luồng Workflow Node."
+  "version": "4.4.5.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.5.8/RUN_VEO_3_ULTRA_PROMAX_4.4.5.8.zip",
+  "sha256": "sha256:ca5a940faff3ca8234b264f994027ae6c17eaa1eb32143c8d0893c8e733b6e4a",
+  "description": "Cập nhật V4.4.5.8:\n- Đồng bộ hóa hoàn toàn cơ chế trích xuất lỗi Google API trong cả luồng workflow node và các tab thường.\n- Ghi log lỗi xác định vào loi_xac_dinh.txt, và lỗi không xác định thực sự vào failed_khong_xac_dinh.txt.\n- Khắc phục lỗi parser do cấu trúc JSON nested media/workflows/operations của model Lite/Lower Priority."
 }
