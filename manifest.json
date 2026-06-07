@@ -1,6 +1,6 @@
 {
   "version": "4.4.5.7",
   "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.5.7/RUN_VEO_3_ULTRA_PROMAX_4.4.5.7.zip",
-  "sha256": "sha256:4d2dcaf75a43e4c40ef9dd20204d3a989a7ef9136f3fa61d06a6757e9692d730",
-  "description": "Cập nhật V4.4.5.6:\n- Sửa lỗi tự động làm mới Google access token (AutoToken) khi chạy trong môi trường EXE đóng gói.\n- Đồng bộ cookie xác thực trong luồng Workflow Node.\n- Căn chỉnh hiển thị ô prompt tab Nhật ký.\n- Sửa lỗi mở đúp ảnh/video khi bấm xem thử.\n- Tối ưu hóa dọn dẹp .build folder."
+  "sha256": "sha256:6cc0c35b3e234074711b5c5f2d1ec2b2330ffe2df5d529968f5a29324af43d4d",
+  "description": "Cập nhật V4.4.5.7:\n- Khắc phục lỗi tạo ảnh từ ảnh tham chiếu (BUG-044) bị lỗi 400 do batchId và sessionId.\n- Tách biệt cache upload ảnh theo tool_type sửa lỗi Google 500 khi chạy sau video.\n- Đồng bộ logic nạp account context và payload tạo ảnh trong workflow.\n- Tự động hạ xuống model Lite/Lower Priority từ config nếu node mặc định FAST.\n- Đồng bộ Cookie xác thực trong luồng Workflow Node."
 }
