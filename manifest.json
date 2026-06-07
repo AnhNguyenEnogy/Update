@@ -1,6 +1,6 @@
 {
-  "version": "4.4.5.8",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.5.8/RUN_VEO_3_ULTRA_PROMAX_4.4.5.8.zip",
-  "sha256": "sha256:ca5a940faff3ca8234b264f994027ae6c17eaa1eb32143c8d0893c8e733b6e4a",
-  "description": "Cập nhật V4.4.5.8:\n- Đồng bộ hóa hoàn toàn cơ chế trích xuất lỗi Google API trong cả luồng workflow node và các tab thường.\n- Ghi log lỗi xác định vào loi_xac_dinh.txt, và lỗi không xác định thực sự vào failed_khong_xac_dinh.txt.\n- Khắc phục lỗi parser do cấu trúc JSON nested media/workflows/operations của model Lite/Lower Priority."
+  "version": "4.4.5.9",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.5.9/RUN_VEO_3_ULTRA_PROMAX_4.4.5.9.zip",
+  "sha256": "sha256:f1e5a22d1123359a7e219bf8c06d31af61795390bc91f855c20d45aa6a6967cf",
+  "description": "Cập nhật V4.4.5.9:\n- Khắc phục triệt để lỗi phân tích video qua Chrome Gemini bị treo kẹt ở bước gán tệp tin và lỗi gửi hụt prompt do file chưa upload xong 100%.\n- Tối ưu hóa gán tệp trực tiếp vào input ẩn và dọn dẹp phiên crash trình duyệt.\n- Tăng thời gian chờ nút Send sẵn sàng lên tối đa 300s để chắc chắn gửi prompt thành công."
 }
