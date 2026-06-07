@@ -1,6 +1,6 @@
 {
-  "version": "4.4.6.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.0/RUN_VEO_3_ULTRA_PROMAX_4.4.6.0.zip",
-  "sha256": "sha256:dc527b988778e8df7fdf81c1ad6aa1645e3b92916afb87a2579f808c32e245f6",
-  "description": "Cập nhật V4.4.6.0:\n- Tối ưu hóa chất lượng tải video về tối đa là 480p cho cả 3 nền tảng YouTube, TikTok và Facebook.\n- Tiết kiệm từ 35 - 50 lần dung lượng tệp tin và băng thông tải lên.\n- Tăng tốc độ đính kèm tệp lên Google Gemini trên Chrome chỉ còn 1 - 2 giây, loại bỏ hoàn toàn hiện tượng kẹt trình duyệt."
+  "version": "4.4.6.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.1/RUN_VEO_3_ULTRA_PROMAX_4.4.6.1.zip",
+  "sha256": "sha256:9caef0af4e37f643a13dfa9a147d3bec63f6f6152b7008a386e6d1356a421cb6",
+  "description": "Cập nhật V4.4.6.1:\n- Tự động tối ưu hóa và chèn chỉ thị bảo toàn nhân vật & trang phục siêu mạnh (Super Consistency) cho luồng tạo video Đồng nhất nhân vật (Sync Character).\n- Áp dụng đồng bộ cho cả Workflow Canvas và các luồng chạy tay ở tab thường (Đồng nhất nhân vật & Đồng bộ voice).\n- Giữ nguyên vóc dáng, khuôn mặt, mái tóc và khóa chặt màu sắc/hoa văn trang phục của nhân vật mẫu."
 }
