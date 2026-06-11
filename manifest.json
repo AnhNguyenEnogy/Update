@@ -1,6 +1,6 @@
 {
-  "version": "4.4.6.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.3/RUN_VEO_3_ULTRA_PROMAX_4.4.6.3.zip",
-  "sha256": "sha256:19a27772c541c4f3ed8ca04eaddfe0c1cddc0ca17c3a3486edd8d0fe09eda214",
-  "description": "Cập nhật V4.4.6.3:\n- Khắc phục triệt để lỗi trùng lặp card nhân vật predefined ở hàng dưới trên giao diện bằng bộ lọc so khớp kép (ID + Tên nhân vật đang hoạt động).\n- Khắc phục lỗi predefined characters bị mất/rỗng ref_images trong file characters.json khi chạy tạo mới kịch bản.\n- Tối ưu hóa cơ chế đồng bộ ảnh mẫu, luôn tự động copy đè ảnh predefined mới nhất vào thư mục project khi bắt đầu chạy workflow."
+  "version": "4.4.6.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.4/RUN_VEO_3_ULTRA_PROMAX_4.4.6.4.zip",
+  "sha256": "sha256:81da71684d517ddd3ebfa09bf9a6f435fefe3d63bae6b01e3bbc1be9717bf860",
+  "description": "Cập nhật V4.4.6.4:\n- Tối ưu hóa chiều cao các node Ghép Video và Edit Video tránh đè lên các nút bấm ở đáy.\n- Sửa lỗi mờ chữ/trùng nền tối của hộp thoại nhập liệu mặc định bằng cách chèn đối thoại tùy chỉnh WorkflowInputDialog và ConfirmDeleteDialog Obsidian Slate.\n- Hỗ trợ chọn cụ thể từng model Gemini API trong node Phân Tích Video.\n- Thay đổi thư mục lưu video ghép/edit thành video_edit và đặt tên sản phẩm edit có tiền tố final_."
 }
