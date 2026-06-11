@@ -1,6 +1,6 @@
 {
-  "version": "4.4.6.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.6/RUN_VEO_3_ULTRA_PROMAX_4.4.6.6.zip",
-  "sha256": "sha256:b1ad4b034f53321a12707aebd95d46a16a744c49b67266a2339f00d657f795ad",
-  "description": "Cập nhật V4.4.6.6:\n- Cải tiến các combobox phong cách phụ đề (font chữ, màu chữ, màu viền) hiển thị trực quan (chữ đổi theo font đã chọn, thêm icon ô màu tương ứng).\n- Hỗ trợ hover xem thử nhanh các hiệu ứng chữ ngay trên combobox một cách mượt mà và trực quan.\n- Khắc phục triệt để lỗi viền chữ xem trước bị ảo (1px tối thiểu) trong Qt bằng thuật toán điều chỉnh alpha, giúp nét viền mảnh mịn và biến mất hoàn toàn khi đưa về 0."
+  "version": "4.4.6.7",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.7/RUN_VEO_3_ULTRA_PROMAX_4.4.6.7.zip",
+  "sha256": "sha256:c8df94e8a99b7c6cd3b8aec3de619028c1e746b34f4f16a130cf87f8aade441c",
+  "description": "Cập nhật V4.4.6.7:\n- Sửa lỗi crash [WinError 2] do thiếu file ffprobe.exe khi chạy tính năng STT / Tạo phụ đề trên máy khách.\n- Đóng gói đầy đủ ffprobe.exe kèm theo bản phát hành standalone để chạy ổn định."
 }
