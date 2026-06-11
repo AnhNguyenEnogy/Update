@@ -1,6 +1,6 @@
 {
-  "version": "4.4.6.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.4/RUN_VEO_3_ULTRA_PROMAX_4.4.6.4.zip",
-  "sha256": "sha256:81da71684d517ddd3ebfa09bf9a6f435fefe3d63bae6b01e3bbc1be9717bf860",
-  "description": "Cập nhật V4.4.6.4:\n- Tối ưu hóa chiều cao các node Ghép Video và Edit Video tránh đè lên các nút bấm ở đáy.\n- Sửa lỗi mờ chữ/trùng nền tối của hộp thoại nhập liệu mặc định bằng cách chèn đối thoại tùy chỉnh WorkflowInputDialog và ConfirmDeleteDialog Obsidian Slate.\n- Hỗ trợ chọn cụ thể từng model Gemini API trong node Phân Tích Video.\n- Thay đổi thư mục lưu video ghép/edit thành video_edit và đặt tên sản phẩm edit có tiền tố final_."
+  "version": "4.4.6.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.5/RUN_VEO_3_ULTRA_PROMAX_4.4.6.5.zip",
+  "sha256": "sha256:8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
+  "description": "Cập nhật V4.4.6.5:\n- Đóng gói sao chép đầy đủ thư mục font chữ CapCut_Fonts vào bản phát hành EXE standalone để burn phụ đề đầy đủ font chữ đẹp.\n- Tối ưu hóa chiều cao các node trên Canvas tránh đè nút bấm ở đáy.\n- Sửa lỗi mờ chữ/trùng nền tối của hộp thoại nhập liệu mặc định bằng cách chèn đối thoại tùy chỉnh WorkflowInputDialog và ConfirmDeleteDialog Obsidian Slate.\n- Hỗ trợ chọn cụ thể từng model Gemini API trong node Phân Tích Video.\n- Thay đổi thư mục lưu video ghép/edit thành video_edit và đặt tên sản phẩm edit có tiền tố final_."
 }
