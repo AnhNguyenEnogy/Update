@@ -1,6 +1,6 @@
 {
-  "version": "4.4.6.8",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.8/RUN_VEO_3_ULTRA_PROMAX_4.4.6.8.zip",
-  "sha256": "sha256:40a305f0ac9ec60a84ba44a099567fc00c88f362be7d18fbdd40b15d783fa3ad",
-  "description": "Cập nhật V4.4.6.8:\n- Tích hợp Node Danh Sách Link trên Canvas Workflow và chạy loạt tuần tự.\n- Cải tiến giao diện hàng đợi Batch Queue, đánh số thứ tự cho các mẫu kịch bản, và nút chuyển đổi Quản lý Batch ẩn/hiện dock.\n- Sửa lỗi lưu thư mục media và đồng bộ chéo cấu hình giữa các tab con."
+  "version": "4.4.7.0",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.0/RUN_VEO_3_ULTRA_PROMAX_4.4.7.0.zip",
+  "sha256": "sha256:c42b4f0f68c8cf6cb300a75493fdb82aa918caf3ef4f3629b1a28bdb2f909c74",
+  "description": "Cập nhật V4.4.7.0:\n- Sửa lỗi tự động đăng nhập (auto login) tài khoản Google bị kẹt do thay đổi ngôn ngữ giao diện."
 }
