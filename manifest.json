@@ -1,6 +1,6 @@
 {
-  "version": "4.4.7.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.0/RUN_VEO_3_ULTRA_PROMAX_4.4.7.0.zip",
-  "sha256": "sha256:c42b4f0f68c8cf6cb300a75493fdb82aa918caf3ef4f3629b1a28bdb2f909c74",
-  "description": "Cập nhật V4.4.7.0:\n- Sửa lỗi tự động đăng nhập (auto login) tài khoản Google bị kẹt do thay đổi ngôn ngữ giao diện."
+  "version": "4.4.7.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.1/RUN_VEO_3_ULTRA_PROMAX_4.4.7.1.zip",
+  "sha256": "sha256:03e3f91dd1a3e2b2ccc93ccf47a44a63e8526c8aad8269e439b1f7df44549b77",
+  "description": "Cập nhật V4.4.7.1:\n- Hỗ trợ chạy ngầm hàng đợi kịch bản thực sự khi chuyển dự án.\n- Tự động định hướng thư mục lưu media kịch bản theo đúng cấu hình Settings.\n- Tự động đồng bộ kết quả node dưới nền và sửa lỗi node gemini_prompt."
 }
