@@ -1,6 +1,6 @@
 {
-  "version": "4.4.6.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.7/RUN_VEO_3_ULTRA_PROMAX_4.4.6.7.zip",
-  "sha256": "sha256:c8df94e8a99b7c6cd3b8aec3de619028c1e746b34f4f16a130cf87f8aade441c",
-  "description": "Cập nhật V4.4.6.7:\n- Sửa lỗi crash [WinError 2] do thiếu file ffprobe.exe khi chạy tính năng STT / Tạo phụ đề trên máy khách.\n- Đóng gói đầy đủ ffprobe.exe kèm theo bản phát hành standalone để chạy ổn định."
+  "version": "4.4.6.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.6.8/RUN_VEO_3_ULTRA_PROMAX_4.4.6.8.zip",
+  "sha256": "sha256:40a305f0ac9ec60a84ba44a099567fc00c88f362be7d18fbdd40b15d783fa3ad",
+  "description": "Cập nhật V4.4.6.8:\n- Tích hợp Node Danh Sách Link trên Canvas Workflow và chạy loạt tuần tự.\n- Cải tiến giao diện hàng đợi Batch Queue, đánh số thứ tự cho các mẫu kịch bản, và nút chuyển đổi Quản lý Batch ẩn/hiện dock.\n- Sửa lỗi lưu thư mục media và đồng bộ chéo cấu hình giữa các tab con."
 }
