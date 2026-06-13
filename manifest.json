@@ -1,6 +1,6 @@
 {
-  "version": "4.4.7.2",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.2/RUN_VEO_3_ULTRA_PROMAX_4.4.7.2.zip",
-  "sha256": "sha256:a05c13a4b0bc32760393b8c486583257d3eccb0f7641dc3adb96ef0007fbbbf9",
-  "description": "Cập nhật V4.4.7.2:\n- Sửa lỗi hiển thị các thư mục code trong dialog xóa dự án.\n- Khôi phục cơ chế WORKFLOWS_DIR an toàn và cô lập tài nguyên lưu trữ kịch bản."
+  "version": "4.4.7.3",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.3/RUN_VEO_3_ULTRA_PROMAX_4.4.7.3.zip",
+  "sha256": "sha256:8dae0f8433dbb3eed9776b92a4117dbcefc3e80e19ba8732e556b8943c4dc3dc",
+  "description": "Cập nhật V4.4.7.3:\n- Tích hợp nút Xóa Bind thiết bị NTA_VEO3 và route API unbind trên giao diện quản trị VPS.\n- Giải phóng các mã bind thiết bị NTA_VEO3 cũ."
 }
