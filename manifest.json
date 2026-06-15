@@ -1,6 +1,6 @@
 {
-  "version": "4.4.7.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.3/RUN_VEO_3_ULTRA_PROMAX_4.4.7.3.zip",
-  "sha256": "sha256:8dae0f8433dbb3eed9776b92a4117dbcefc3e80e19ba8732e556b8943c4dc3dc",
-  "description": "Cập nhật V4.4.7.3:\n- Tích hợp nút Xóa Bind thiết bị NTA_VEO3 và route API unbind trên giao diện quản trị VPS.\n- Giải phóng các mã bind thiết bị NTA_VEO3 cũ."
+  "version": "4.4.7.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.5/RUN_VEO_3_ULTRA_PROMAX_4.4.7.5.zip",
+  "sha256": "sha256:42d51534dfaa8fdf39da79b612fd214515e7f4768634ead2ebc22239b00721b9",
+  "description": "Cập nhật V4.4.7.5:\n- Tích hợp cơ chế bóc băng tự động bằng CapCut STT API để căn khớp thời lượng cảnh và kịch bản.\n- Tự động cắt bỏ thời lượng im lặng thừa ở cuối tệp voice bằng precision output trimming (-t).\n- Tự động fallback ngoại tuyến sang thuật toán Quy hoạch động khoảng lặng khi lỗi kết nối."
 }
