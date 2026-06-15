@@ -1,6 +1,6 @@
 {
-  "version": "4.4.7.8",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.8/RUN_VEO_3_ULTRA_PROMAX_4.4.7.8.zip",
-  "sha256": "sha256:8605a641baabbb63ec045b9172056db39580be05bd2b62a817f03c3ee807fd13",
-  "description": "Cập nhật V4.4.7.8:\n- Ẩn cửa sổ trình duyệt Chrome ChatGPT (đẩy ra ngoài tọa độ màn hình) và bắt đầu ở dạng thu nhỏ khi tự động tạo voice.\n- Tự động đóng/tắt hoàn toàn trình duyệt Chrome ChatGPT ngay khi tạo xong file voice hoặc khi gặp lỗi/timeout để giải phóng profile, tránh bị lock.\n- Tích hợp và đồng bộ đầy đủ các thư mục tài nguyên hệ thống (system workflows, các tệp JSON mẫu, extensions, dlls PyQt6) vào tệp EXE đóng gói phân phối."
+  "version": "4.4.7.9",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.9/RUN_VEO_3_ULTRA_PROMAX_4.4.7.9.zip",
+  "sha256": "sha256:09eaf360286b1d0d94b5116aad58dbc3106a7496b11ca5bbdc04e3e93969ffce",
+  "description": "Cập nhật V4.4.7.9:\n- Khắc phục triệt để lỗi mất/hỏng chuỗi dữ liệu base64 tự phục hồi (Self-Healing) của các tệp tin kịch bản mẫu json hệ thống trong mã nguồn EXE, đảm bảo các kịch bản mẫu luôn tự động sinh ra đầy đủ khi khởi chạy.\n- Ẩn cửa sổ trình duyệt Chrome ChatGPT (đẩy ra ngoài tọa độ màn hình) và bắt đầu ở dạng thu nhỏ khi tự động tạo voice.\n- Tự động đóng/tắt hoàn toàn trình duyệt Chrome ChatGPT ngay khi tạo xong file voice hoặc khi gặp lỗi/timeout để giải phóng profile, tránh bị lock.\n- Tích hợp và đồng bộ đầy đủ các thư mục tài nguyên hệ thống (system workflows, các tệp JSON mẫu, extensions, dlls PyQt6) vào tệp EXE đóng gói phân phối."
 }
