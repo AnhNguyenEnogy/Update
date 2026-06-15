@@ -1,6 +1,6 @@
 {
-  "version": "4.4.7.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.6/RUN_VEO_3_ULTRA_PROMAX_4.4.7.6.zip",
-  "sha256": "sha256:07091724a513e05d3b3031a7a0875bde99673857f6ea29ac000553708befc909",
-  "description": "Cập nhật V4.4.7.6:\n- Tích hợp cơ chế bóc băng tự động bằng CapCut STT API để căn khớp thời lượng cảnh và kịch bản.\n- Tự động cắt bỏ thời lượng im lặng thừa ở cuối tệp voice bằng precision output trimming (-t).\n- Tự động fallback ngoại tuyến sang thuật toán Quy hoạch động khoảng lặng khi lỗi kết nối."
+  "version": "4.4.7.7",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.7/RUN_VEO_3_ULTRA_PROMAX_4.4.7.7.zip",
+  "sha256": "sha256:e8e244235eec8e85cd8c79eb1fb0209eb40a97a0a2e6cfd7a24c9f08738acee8",
+  "description": "Cập nhật V4.4.7.7:\n- Ẩn cửa sổ trình duyệt Chrome ChatGPT (đẩy ra ngoài tọa độ màn hình) và bắt đầu ở dạng thu nhỏ khi tự động tạo voice.\n- Tự động đóng/tắt hoàn toàn trình duyệt Chrome ChatGPT ngay khi tạo xong file voice hoặc khi gặp lỗi/timeout để giải phóng profile, tránh bị lock."
 }
