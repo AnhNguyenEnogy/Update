@@ -1,6 +1,6 @@
 {
   "version": "4.4.7.5",
   "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.5/RUN_VEO_3_ULTRA_PROMAX_4.4.7.5.zip",
-  "sha256": "sha256:8ce6d6105eb9a67dea99019fa1a8f4e1817d516496622048c46b016d228ee992",
+  "sha256": "sha256:f65753087127dcc7962a59ac759ea5a3dab7fe799a61e74aa5b9e66720b40527",
   "description": "Cập nhật V4.4.7.5:\n- Tích hợp cơ chế bóc băng tự động bằng CapCut STT API để căn khớp thời lượng cảnh và kịch bản.\n- Tự động cắt bỏ thời lượng im lặng thừa ở cuối tệp voice bằng precision output trimming (-t).\n- Tự động fallback ngoại tuyến sang thuật toán Quy hoạch động khoảng lặng khi lỗi kết nối."
 }
