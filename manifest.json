@@ -1,6 +1,6 @@
 {
-  "version": "4.4.7.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.7/RUN_VEO_3_ULTRA_PROMAX_4.4.7.7.zip",
-  "sha256": "sha256:e8e244235eec8e85cd8c79eb1fb0209eb40a97a0a2e6cfd7a24c9f08738acee8",
-  "description": "Cập nhật V4.4.7.7:\n- Ẩn cửa sổ trình duyệt Chrome ChatGPT (đẩy ra ngoài tọa độ màn hình) và bắt đầu ở dạng thu nhỏ khi tự động tạo voice.\n- Tự động đóng/tắt hoàn toàn trình duyệt Chrome ChatGPT ngay khi tạo xong file voice hoặc khi gặp lỗi/timeout để giải phóng profile, tránh bị lock."
+  "version": "4.4.7.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.7.8/RUN_VEO_3_ULTRA_PROMAX_4.4.7.8.zip",
+  "sha256": "sha256:8605a641baabbb63ec045b9172056db39580be05bd2b62a817f03c3ee807fd13",
+  "description": "Cập nhật V4.4.7.8:\n- Ẩn cửa sổ trình duyệt Chrome ChatGPT (đẩy ra ngoài tọa độ màn hình) và bắt đầu ở dạng thu nhỏ khi tự động tạo voice.\n- Tự động đóng/tắt hoàn toàn trình duyệt Chrome ChatGPT ngay khi tạo xong file voice hoặc khi gặp lỗi/timeout để giải phóng profile, tránh bị lock.\n- Tích hợp và đồng bộ đầy đủ các thư mục tài nguyên hệ thống (system workflows, các tệp JSON mẫu, extensions, dlls PyQt6) vào tệp EXE đóng gói phân phối."
 }
