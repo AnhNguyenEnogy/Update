@@ -1,6 +1,6 @@
 {
-  "version": "4.4.8.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.0/RUN_VEO_3_ULTRA_PROMAX_4.4.8.0.zip",
-  "sha256": "sha256:c02474928566897d93b0d254231e6639937fb34d742c280055fea2e725450d23",
-  "description": "Cập nhật V4.4.8.0:\n- Fix triệt để lỗi [WinError 2] khi tạo giọng nói ChatGPT trên bản build (thêm stdin=DEVNULL cho subprocess mở Chrome trong môi trường không console).\n- Resolve đường dẫn ffmpeg tuyệt đối cho bản compiled.\n- Thêm traceback chi tiết khi tạo voice thất bại để debug dễ hơn."
+  "version": "4.4.8.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.1/RUN_VEO_3_ULTRA_PROMAX_4.4.8.1.zip",
+  "sha256": "sha256:a1d0e78019f803e3643e0de4235a219865c0ee94c717d05bc6965dd9ba2cd2da",
+  "description": "Cập nhật V4.4.8.1:\n- Cập nhật và thay thế mẫu kịch bản hệ thống video Người Que (Stick Figure) cũ bằng kịch bản mẫu mới 'Sao chép video Người Que New' hỗ trợ tối ưu chế độ Stick Figure."
 }
