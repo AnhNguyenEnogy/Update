@@ -1,6 +1,6 @@
 {
-  "version": "4.4.8.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.1/RUN_VEO_3_ULTRA_PROMAX_4.4.8.1.zip",
-  "sha256": "sha256:a1d0e78019f803e3643e0de4235a219865c0ee94c717d05bc6965dd9ba2cd2da",
-  "description": "Cập nhật V4.4.8.1:\n- Cập nhật và thay thế mẫu kịch bản hệ thống video Người Que (Stick Figure) cũ bằng kịch bản mẫu mới 'Sao chép video Người Que New' hỗ trợ tối ưu chế độ Stick Figure."
+  "version": "4.4.8.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.2/RUN_VEO_3_ULTRA_PROMAX_4.4.8.2.zip",
+  "sha256": "sha256:07ada3fa5d32bafbcf634a6a9a902677dc1a8264a4638893912a191f2f8152ad",
+  "description": "Cập nhật V4.4.8.2:\n- Sửa lỗi nhạc nền (BGM) không phát hết toàn bộ video ở node Edit Video (đồng bộ & pad track audio thoại và thumbnail)."
 }
