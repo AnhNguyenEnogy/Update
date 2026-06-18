@@ -1,6 +1,6 @@
 {
-  "version": "4.4.8.2",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.2/RUN_VEO_3_ULTRA_PROMAX_4.4.8.2.zip",
-  "sha256": "sha256:07ada3fa5d32bafbcf634a6a9a902677dc1a8264a4638893912a191f2f8152ad",
-  "description": "Cập nhật V4.4.8.2:\n- Sửa lỗi nhạc nền (BGM) không phát hết toàn bộ video ở node Edit Video (đồng bộ & pad track audio thoại và thumbnail)."
+  "version": "4.4.8.3",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.3/RUN_VEO_3_ULTRA_PROMAX_4.4.8.3.zip",
+  "sha256": "sha256:ac11d3c5122aaa0ccf2fcb8732d90b866da8212120b198d261474e4d2c245cb9",
+  "description": "Cập nhật V4.4.8.3:\n- Tối ưu hóa toàn diện hiệu năng quản lý Chrome (Tắt/Mở/Quét cổng CDP) bằng psutil thuần Python thay thế PowerShell WMI giúp loại bỏ hoàn toàn hiện tượng khựng giật hệ thống.\n- Khắc phục lỗi hàng đợi Batch bị kẹt lặp lại ở dự án lỗi (tự động bỏ qua dự án failed để chạy tiếp các dự án pending tiếp theo).\n- Sửa lỗi sinh Batch mới bị reset số thứ tự về 1, 2, 3 gây ghi đè kịch bản cũ (đổi sang cộng dồn tiếp diễn từ số thứ tự lớn nhất đang có).\n- Tự động chèn thêm nhãn 'Facebook' vào dòng đầu cột nội dung Excel để tương thích ngược với bản build uploader cũ."
 }
