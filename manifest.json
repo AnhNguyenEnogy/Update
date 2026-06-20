@@ -1,6 +1,6 @@
 {
-  "version": "4.4.8.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.4/RUN_VEO_3_ULTRA_PROMAX_4.4.8.4.zip",
-  "sha256": "sha256:bbf63bb1b42ffdbd246771058064c56ad2fed579e03a32ef8a4aa84bf5826be9",
-  "description": "Cập nhật V4.4.8.4:\n- Tích hợp và đóng gói kịch bản mẫu Người Que mới nhất ('Người que NEW') dưới dạng base64 nén gzip vào tab_workflow.py, tự động giải nén và cập nhật cache hệ thống.\n- Cập nhật quy tắc prompt an toàn y tế và hình ảnh cái chết cho chế độ Người Que (giữ nguyên thoại 100%, giới hạn độ dài thoại mỗi cảnh <= 25 từ, tone màu đen trắng, prompt sinh thumbnail 'Nghe & Ngẫm').\n- Đồng bộ nhãn hiển thị và vô hiệu hóa ô nhập Text Overlays đối với '👑 Tiêu đề (Tự động lấy)'.\n- Nâng cấp bộ trích xuất tiêu đề (nhận diện 'nội dung tiêu đề') và tự động ngắt dòng thông minh khi tiêu đề quá dài (>22 ký tự).\n- Khắc phục các lỗi AttributeError trên giao diện preview, kéo thả text overlay và dọn dẹp các panel cấu hình phụ đề/văn bản."
+  "version": "4.4.8.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.5/RUN_VEO_3_ULTRA_PROMAX_4.4.8.5.zip",
+  "sha256": "sha256:cd0578d7b39b29138dd4f71f34e07634a71db249b4df91b821d54323fc6e79e2",
+  "description": "Cập nhật V4.4.8.5:\n- Tích hợp và đóng gói kịch bản mẫu Người Que mới nhất ('Người que NEW') dưới dạng base64 nén gzip vào tab_workflow.py, tự động giải nén và cập nhật cache hệ thống.\n- Cập nhật quy tắc prompt an toàn y tế và hình ảnh cái chết cho chế độ Người Que (giữ nguyên thoại 100%, giới hạn độ dài thoại mỗi cảnh <= 25 từ, tone màu đen trắng, prompt sinh thumbnail 'Nghe & Ngẫm').\n- Đồng bộ nhãn hiển thị và vô hiệu hóa ô nhập Text Overlays đối với '👑 Tiêu đề (Tự động lấy)'.\n- Nâng cấp bộ trích xuất tiêu đề (nhận diện 'nội dung tiêu đề') và tự động ngắt dòng thông minh khi tiêu đề quá dài (>22 ký tự).\n- Khắc phục các lỗi AttributeError trên giao diện preview, kéo thả text overlay và dọn dẹp các panel cấu hình phụ đề/văn bản."
 }
