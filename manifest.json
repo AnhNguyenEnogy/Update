@@ -1,6 +1,6 @@
 {
-  "version": "4.4.8.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.7/RUN_VEO_3_ULTRA_PROMAX_4.4.8.7.zip",
-  "sha256": "sha256:7e72932636e921084c94951627b35fb0b3a1e6eb89105e21dbfbb6db421925e7",
-  "description": "Cập nhật V4.4.8.7:\n- Khắc phục lỗi chọn nhạc nền mẫu hoặc nghe thử bị lag đơ ứng dụng hoặc crash: Không tải thời lượng nhạc mẫu đồng bộ khi mở menu để tránh block UI thread và gỡ bỏ cơ chế tự động phát nhạc khi di chuột hover."
+  "version": "4.4.8.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.8/RUN_VEO_3_ULTRA_PROMAX_4.4.8.8.zip",
+  "sha256": "sha256:c8369be8aeb59f5e385657a5f0caf4561231e7509a01bcb74b3985c969a61f85",
+  "description": "Cập nhật V4.4.8.8:\n- Thay đổi hành vi chạy lại node lỗi khi thực thi dự án qua Batch Queue: Chỉ chạy lại các node lỗi/chưa chạy (run_errors_only=True) thay vị chạy lại từ đầu khi chạy trong hàng loạt."
 }
