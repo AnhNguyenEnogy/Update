@@ -1,6 +1,6 @@
 {
-  "version": "4.4.8.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.3/RUN_VEO_3_ULTRA_PROMAX_4.4.8.3.zip",
-  "sha256": "sha256:ac11d3c5122aaa0ccf2fcb8732d90b866da8212120b198d261474e4d2c245cb9",
-  "description": "Cập nhật V4.4.8.3:\n- Tối ưu hóa toàn diện hiệu năng quản lý Chrome (Tắt/Mở/Quét cổng CDP) bằng psutil thuần Python thay thế PowerShell WMI giúp loại bỏ hoàn toàn hiện tượng khựng giật hệ thống.\n- Khắc phục lỗi hàng đợi Batch bị kẹt lặp lại ở dự án lỗi (tự động bỏ qua dự án failed để chạy tiếp các dự án pending tiếp theo).\n- Sửa lỗi sinh Batch mới bị reset số thứ tự về 1, 2, 3 gây ghi đè kịch bản cũ (đổi sang cộng dồn tiếp diễn từ số thứ tự lớn nhất đang có).\n- Tự động chèn thêm nhãn 'Facebook' vào dòng đầu cột nội dung Excel để tương thích ngược với bản build uploader cũ."
+  "version": "4.4.8.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.4/RUN_VEO_3_ULTRA_PROMAX_4.4.8.4.zip",
+  "sha256": "sha256:bbf63bb1b42ffdbd246771058064c56ad2fed579e03a32ef8a4aa84bf5826be9",
+  "description": "Cập nhật V4.4.8.4:\n- Tích hợp và đóng gói kịch bản mẫu Người Que mới nhất ('Người que NEW') dưới dạng base64 nén gzip vào tab_workflow.py, tự động giải nén và cập nhật cache hệ thống.\n- Cập nhật quy tắc prompt an toàn y tế và hình ảnh cái chết cho chế độ Người Que (giữ nguyên thoại 100%, giới hạn độ dài thoại mỗi cảnh <= 25 từ, tone màu đen trắng, prompt sinh thumbnail 'Nghe & Ngẫm').\n- Đồng bộ nhãn hiển thị và vô hiệu hóa ô nhập Text Overlays đối với '👑 Tiêu đề (Tự động lấy)'.\n- Nâng cấp bộ trích xuất tiêu đề (nhận diện 'nội dung tiêu đề') và tự động ngắt dòng thông minh khi tiêu đề quá dài (>22 ký tự).\n- Khắc phục các lỗi AttributeError trên giao diện preview, kéo thả text overlay và dọn dẹp các panel cấu hình phụ đề/văn bản."
 }
