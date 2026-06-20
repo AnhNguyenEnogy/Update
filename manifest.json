@@ -1,6 +1,6 @@
 {
-  "version": "4.4.8.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.6/RUN_VEO_3_ULTRA_PROMAX_4.4.8.6.zip",
-  "sha256": "sha256:4710c58e8cb45d916f3453743231d6a0c023cb982d62ccdbc1edcbf1a7d162cb",
-  "description": "Cập nhật V4.4.8.6:\n- Khắc phục lỗi hàng đợi Batch Queue bị dừng khi hoàn thành dự án phẳng hóa kịch bản: sửa logic trong _on_workflow_finished của qt_ui/tab_workflow.py để tiếp tục chạy các dự án tiếp theo khi is_expanding_transition là True (chỉ dừng nếu bị Cancelled)."
+  "version": "4.4.8.7",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.7/RUN_VEO_3_ULTRA_PROMAX_4.4.8.7.zip",
+  "sha256": "sha256:7e72932636e921084c94951627b35fb0b3a1e6eb89105e21dbfbb6db421925e7",
+  "description": "Cập nhật V4.4.8.7:\n- Khắc phục lỗi chọn nhạc nền mẫu hoặc nghe thử bị lag đơ ứng dụng hoặc crash: Không tải thời lượng nhạc mẫu đồng bộ khi mở menu để tránh block UI thread và gỡ bỏ cơ chế tự động phát nhạc khi di chuột hover."
 }
