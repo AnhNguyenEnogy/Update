@@ -1,6 +1,6 @@
 {
-  "version": "4.4.8.9",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.8.9/RUN_VEO_3_ULTRA_PROMAX_4.4.8.9.zip",
-  "sha256": "sha256:94ad6d60b18ad10c35febbd1fab9f02876b71cf4936777b4e511ce02fba20881",
-  "description": "Cập nhật V4.4.8.9:\n- Tích hợp cơ chế đổi cổng HTTP động khi chạy ChatGPT TTS: Tự động tìm cổng HTTP Server trống từ 8765 trở đi và cập nhật contentscript.js trước khi khởi chạy Chrome debug, tránh xung đột cổng khi chạy song song nhiều tool."
+  "version": "4.4.9.0",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.0/RUN_VEO_3_ULTRA_PROMAX_4.4.9.0.zip",
+  "sha256": "sha256:b8d7972764415c52a8fc1f2948a4ef0aeb763c96b82abf4db477158608360ece",
+  "description": "Cập nhật V4.4.9.0:\n- Tối ưu hóa cơ chế cache của node Phân Tích Video: luôn nạp kịch bản có sẵn trên đĩa và bỏ qua thực thi ở mọi chế độ chạy (trừ khi chạy đơn lẻ node này).\n- Khắc phục triệt để lỗi hoạt ảnh/hiệu ứng loading và spinner của các node vẫn chạy tiếp tục khi bấm nút Dừng."
 }
