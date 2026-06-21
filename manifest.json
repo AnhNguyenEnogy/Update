@@ -1,6 +1,6 @@
 {
   "version": "4.4.9.2",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.2/RUN_VEO_3_ULTRA_PROMAX_4.4.9.2.zip",
+  "url": "https://mirror.ghproxy.com/https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.2/RUN_VEO_3_ULTRA_PROMAX_4.4.9.2.zip",
   "sha256": "sha256:3c00645d64265cc51e79dcc8d3ca9d3d514d0595547a60fd1f1e77428bdb4cc5",
   "description": "Cập nhật V4.4.9.2:\n- Khắc phục triệt để lỗi chạy Batch hàng đợi tự động báo hoàn thành ảo khi chưa chạy thực tế.\n- Tự động reset sạch sẽ trạng thái node và thuộc tính kịch bản cũ của dự án mẫu khi nhân bản sang dự án con.\n- Tối ưu hóa bộ quét hoàn thành dự án con: Hỗ trợ kiểm tra các node ghép/ghép trung gian và node Tạo Voice.\n- Lọc bỏ các node lơ lửng không nối dây trên Canvas khỏi bộ quét để tránh kẹt trạng thái dự án.\n- Bỏ qua popup xác nhận dừng phiền toái khi click Tạm Dừng trực tiếp trên dock Batch Queue."
 }
