@@ -1,6 +1,6 @@
 {
-  "version": "4.4.9.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.0/RUN_VEO_3_ULTRA_PROMAX_4.4.9.0.zip",
-  "sha256": "sha256:b8d7972764415c52a8fc1f2948a4ef0aeb763c96b82abf4db477158608360ece",
-  "description": "Cập nhật V4.4.9.0:\n- Tối ưu hóa cơ chế cache của node Phân Tích Video: luôn nạp kịch bản có sẵn trên đĩa và bỏ qua thực thi ở mọi chế độ chạy (trừ khi chạy đơn lẻ node này).\n- Khắc phục triệt để lỗi hoạt ảnh/hiệu ứng loading và spinner của các node vẫn chạy tiếp tục khi bấm nút Dừng."
+  "version": "4.4.9.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.1/RUN_VEO_3_ULTRA_PROMAX_4.4.9.1.zip",
+  "sha256": "sha256:150679e4e90690e5df9fc88b10576115578482a1f5f640c65f8702690b24ca82",
+  "description": "Cập nhật V4.4.9.1:\n- Tích hợp cơ chế tự động thử lại (retry) tối đa 3 lần cho việc upload ảnh tham chiếu của Workflow Node.\n- Ràng buộc ném lỗi dừng Node ngay lập tức nếu upload ảnh hoặc kết nối đầu vào bị thiếu/None, ngăn chặn chạy sai luồng.\n- Sửa lỗi các node xử lý gộp/ghép tệp không báo lỗi khi thiếu tệp vật lý trên đĩa.\n- Tự động chèn tên ảnh gốc vào đuôi tệp video tải về của tab Tạo video từ ảnh thường."
 }
