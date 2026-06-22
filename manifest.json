@@ -1,6 +1,6 @@
 {
-  "version": "4.4.9.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.3/RUN_VEO_3_ULTRA_PROMAX_4.4.9.3.zip",
-  "sha256": "sha256:df7b97fb30f0bb972c2c2892f5c49d4ac7b83e59f930fdeb3d7e503f7d05dcc3",
-  "description": "Cập nhật V4.4.9.3:\n- Tích hợp tùy chọn checkbox \"Tắt âm thanh gốc\" cho node Khớp Video & Voice.\n- Khi bỏ chọn tắt âm gốc, hệ thống tự động giữ lại âm thanh gốc (hoặc chèn silent audio nếu video câm) và trộn mượt mà với voice qua filter amix.\n- Khắc phục lỗi node Ghép Video bị mất âm thanh gốc bằng cách tự động probe, chuẩn hóa audio stream và chèn silent audio cho tất cả các video đầu vào trước khi concat."
+  "version": "4.4.9.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.4/RUN_VEO_3_ULTRA_PROMAX_4.4.9.4.zip",
+  "sha256": "sha256:663bffa9cd46945842b7cf61b0db07993982247d9db91b12ff97b50c9fda97c4",
+  "description": "Cập nhật V4.4.9.4:\n- Tích hợp engine giọng đọc tiếng Anh của CapCut (\"CapCut ENG\") vào Canvas Workflow, tự động lọc danh sách 37 giọng tiếng Anh chuẩn.\n- Nâng cấp giao diện menu chọn giọng đọc dạng QListWidget cuộn dọc (QScrollBar) mượt mà chống tràn màn hình.\n- Thêm tính năng di chuột qua (hover) tự động phát mẫu giọng đọc tương ứng tức thời.\n- Tăng kích thước nút Phát/Dừng (Play/Pause) kết quả lên 45x32px và cỡ chữ 16px dễ bấm hơn.\n- Hỗ trợ click trực tiếp vào nhãn tên file kết quả (.mp3) để Phát/Dừng nhạc."
 }
