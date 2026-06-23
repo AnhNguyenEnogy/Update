@@ -1,6 +1,6 @@
 {
-  "version": "4.4.9.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.4/RUN_VEO_3_ULTRA_PROMAX_4.4.9.4.zip",
-  "sha256": "sha256:663bffa9cd46945842b7cf61b0db07993982247d9db91b12ff97b50c9fda97c4",
-  "description": "Cập nhật V4.4.9.4:\n- Tích hợp engine giọng đọc tiếng Anh của CapCut (\"CapCut ENG\") vào Canvas Workflow, tự động lọc danh sách 37 giọng tiếng Anh chuẩn.\n- Nâng cấp giao diện menu chọn giọng đọc dạng QListWidget cuộn dọc (QScrollBar) mượt mà chống tràn màn hình.\n- Thêm tính năng di chuột qua (hover) tự động phát mẫu giọng đọc tương ứng tức thời.\n- Tăng kích thước nút Phát/Dừng (Play/Pause) kết quả lên 45x32px và cỡ chữ 16px dễ bấm hơn.\n- Hỗ trợ click trực tiếp vào nhãn tên file kết quả (.mp3) để Phát/Dừng nhạc."
+  "version": "4.4.9.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.5/RUN_VEO_3_ULTRA_PROMAX_4.4.9.5.zip",
+  "sha256": "sha256:981d3c978ca8dfe186ac38669d240cf1eaac530825e3cdb1c4bf6ed982682bc6",
+  "description": "Cập nhật V4.4.9.5:\n- Khắc phục triệt để lỗi nét viền đen của Text Overlays (văn bản đè) che mất màu tô trắng bên trong bằng cách cấu hình thuộc tính stroke ở chế độ outline.\n- Đồng bộ hóa hoàn hảo trạng thái checkbox Phụ đề và text ngoài Canvas với Dialog cấu hình mà không làm mất cấu hình con."
 }
