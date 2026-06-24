@@ -1,6 +1,6 @@
 {
-  "version": "4.4.9.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.7/RUN_VEO_3_ULTRA_PROMAX_4.4.9.7.zip",
-  "sha256": "sha256:0b6a46ad0155f3debe92d60bb3506ca51287d8c2dbc881dd3d8371b6719fc94c",
-  "description": "Cập nhật V4.4.9.7:\n- Sửa lỗi sinh dự án hàng loạt từ nhiều link không giữ đúng cấu hình node Edit Video của dự án gốc.\n- Lưu và khôi phục chính xác trạng thái chọn nhạc mẫu/BGM khi chuyển dự án hoặc sinh dự án batch.\n- Sửa lỗi workflow prompt_list kiểu cũ chỉ tạo ảnh/video dòng đầu và gen_video chạy trước khi ảnh gen_image hoàn tất."
+  "version": "4.4.9.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.8/RUN_VEO_3_ULTRA_PROMAX_4.4.9.8.zip",
+  "sha256": "sha256:39205ba7146271ff30ceaa71de6c981beffb188b1493a55151b4f656ccafc3d6",
+  "description": "Cập nhật V4.4.9.8:\n- Thêm node Danh Sách Ảnh (image_list) trong Workflow Canvas cho phép chọn thư mục/nhiều ảnh cục bộ.\n- Hỗ trợ sinh dự án con hàng loạt (batch dự án) tự động theo danh sách ảnh của node Danh Sách Ảnh tương tự như node Link List.\n- Tắt trigger sinh batch tự động khi người dùng dán hoặc chọn danh sách link/ảnh trong node Link List hoặc Danh Sách Ảnh (chỉ sinh batch khi bấm nút CHẠY)."
 }
