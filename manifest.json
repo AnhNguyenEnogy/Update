@@ -1,6 +1,6 @@
 {
-  "version": "4.4.9.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.6/RUN_VEO_3_ULTRA_PROMAX_4.4.9.6.zip",
-  "sha256": "sha256:a3f3dbc6830b0b6a5aed22716939e85bae6578aecf22a4fd4730701a3e8bea71",
-  "description": "Cập nhật V4.4.9.6:\n- Tối ưu hóa cơ chế đồng bộ cổng động cho ChatGPT TTS bằng cách đọc trực tiếp từ cấu hình extension contentscript.js tránh lệch cổng.\n- Sửa lỗi crash tạo voice ChatGPT bằng cách tự động quét đóng Chrome profile cũ trước khi mở và ghi log thời gian hoàn thành.\n- Khắc phục lỗi crash AttributeError của combo upscale QPushButton khi thay đổi trạng thái checkbox 6. Upscale ngoài Canvas."
+  "version": "4.4.9.7",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.7/RUN_VEO_3_ULTRA_PROMAX_4.4.9.7.zip",
+  "sha256": "sha256:0b6a46ad0155f3debe92d60bb3506ca51287d8c2dbc881dd3d8371b6719fc94c",
+  "description": "Cập nhật V4.4.9.7:\n- Sửa lỗi sinh dự án hàng loạt từ nhiều link không giữ đúng cấu hình node Edit Video của dự án gốc.\n- Lưu và khôi phục chính xác trạng thái chọn nhạc mẫu/BGM khi chuyển dự án hoặc sinh dự án batch.\n- Sửa lỗi workflow prompt_list kiểu cũ chỉ tạo ảnh/video dòng đầu và gen_video chạy trước khi ảnh gen_image hoàn tất."
 }
