@@ -1,6 +1,6 @@
 {
-  "version": "4.4.9.8",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.8/RUN_VEO_3_ULTRA_PROMAX_4.4.9.8.zip",
-  "sha256": "sha256:39205ba7146271ff30ceaa71de6c981beffb188b1493a55151b4f656ccafc3d6",
-  "description": "Cập nhật V4.4.9.8:\n- Thêm node Danh Sách Ảnh (image_list) trong Workflow Canvas cho phép chọn thư mục/nhiều ảnh cục bộ.\n- Hỗ trợ sinh dự án con hàng loạt (batch dự án) tự động theo danh sách ảnh của node Danh Sách Ảnh tương tự như node Link List.\n- Tắt trigger sinh batch tự động khi người dùng dán hoặc chọn danh sách link/ảnh trong node Link List hoặc Danh Sách Ảnh (chỉ sinh batch khi bấm nút CHẠY)."
+  "version": "4.4.9.9",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.9/RUN_VEO_3_ULTRA_PROMAX_4.4.9.9.zip",
+  "sha256": "sha256:247efdfd3f3e3be5f7b9688bf3bd25f744ca641fda1ac4676e9884490253a62e",
+  "description": "Cập nhật V4.4.9.9:\n- Tích hợp Node sinh loạt Excel Batch (excel_batch) vào hệ thống Canvas Workflow.\n- Tự động đồng bộ các prompt ảnh, prompt video và lời thoại theo hàng loạt dòng từ tệp Excel.\n- Hỗ trợ kiểm tra dữ liệu Excel, cảnh báo popup khi số lượng prompt lệch nhau hoặc thiếu cột.\n- Tích hợp nút 'Tạo & Mở Excel Mẫu' tiện lợi giúp người dùng soạn thảo nhanh chóng, bảo toàn file mẫu an toàn trong thư mục data_general khi cập nhật phiên bản mới.\n- Khắc phục hoàn toàn lỗi vòng lặp đệ quy vô hạn khi chạy hàng loạt và bỏ yêu cầu lưu dự án bắt buộc đối với kịch bản mặc định."
 }
