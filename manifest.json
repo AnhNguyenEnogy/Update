@@ -1,6 +1,6 @@
 {
-  "version": "4.4.9.10",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.10/RUN_VEO_3_ULTRA_PROMAX_4.4.9.10.zip",
-  "sha256": "ssha256:4a9f6628d015757aebb3bec9136783a26eca8016c989e5d6d6fcdfa02db07985",
-  "description": "Cập nhật 4.4.9.10:\n- Fix batch excel: Khắc phục và tối ưu hóa xử lý node Excel Batch trên Canvas.\n- Update workflow review đồ nội thất: Cập nhật cấu hình và mẫu kịch bản hệ thống cho việc tạo video review đồ nội thất."
+  "version": "4.5.0.0",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.0/RUN_VEO_3_ULTRA_PROMAX_4.5.0.0.zip",
+  "sha256": "sha256:96da9eaaf14a14b383b49c530662bbc867695d22975e0224bbd32e08bf1ce9e3",
+  "description": "Cập nhật V4.5.0.0:\n- Fix batch excel: Khắc phục và tối ưu hóa xử lý node Excel Batch trên Canvas.\n- Update workflow review đồ nội thất: Cập nhật cấu hình và mẫu kịch bản hệ thống cho việc tạo video review đồ nội thất."
 }
