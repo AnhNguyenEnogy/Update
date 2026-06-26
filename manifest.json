@@ -1,6 +1,6 @@
 {
   "version": "4.4.9.10",
   "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.4.9.10/RUN_VEO_3_ULTRA_PROMAX_4.4.9.10.zip",
-  "sha256": "sha256:cd5ed8b000393be75c54ca8644c00d91ba6bb212e32b83cbf7c848dc107d9736",
+  "sha256": "sha256:4a9f6628d015757aebb3bec9136783a26eca8016c989e5d6d6fcdfa02db07985",
   "description": "Cập nhật V4.4.9.10:\n- Cải tiến giao diện cấu hình node Excel Batch: Nhấp đúp mở bảng cấu hình chuyên nghiệp, hỗ trợ xem trước dữ liệu Excel, cập nhật nóng từ file và tạo nhanh file Excel mẫu.\n- Tối ưu hóa lưu trữ Excel mẫu: Di chuyển tệp mẫu sang data_general/excel_mau_batch.xlsx để bảo toàn dữ liệu khi người dùng cập nhật phiên bản mới.\n- Khắc phục lỗi đệ quy vô hạn khi chạy Batch: Chặn tự động sinh loạt lặp lại từ các dự án con (tên chứa '_Batch_').\n- Loại bỏ yêu cầu lưu dự án bắt buộc: Cho phép chạy sinh loạt trực tiếp từ dự án default_workflow trên Canvas mà không cần lưu trước.\n- Sửa lỗi crash khi tương tác node Excel Batch: Sửa các lỗi AttributeError (gọi view, request save) và UnboundLocalError (QDialog scope) khi mở/lưu cấu hình."
 }
