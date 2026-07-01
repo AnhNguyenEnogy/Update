@@ -1,6 +1,6 @@
 {
-  "version": "4.5.0.2",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.2/RUN_VEO_3_ULTRA_PROMAX_4.5.0.2.zip",
-  "sha256": "sha256:91ece273ba9222de4310566fcefffac94dc81bf66d4c4b91bcfa372114d75894",
-  "description": "Cập nhật V4.5.0.2:\n- Tách system prompt Video thường riêng cho node Phân Tích Video trong Workflow, không ảnh hưởng prompt Video thường ở tab phân tích.\n- Cho phép prompt Workflow Video thường mô tả/vẽ chữ trên ảnh và video theo yêu cầu, không còn bị tự chèn ràng buộc cấm text.\n- Bổ sung output voice_prompts và thumbnail_prompt để node Workflow xuất đúng cổng Lời Thoại và Prompt Thumbnail.\n- Đồng bộ luồng Gemini API và Chrome Gemini cho prompt Workflow Video thường."
+  "version": "4.5.0.3",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.3/RUN_VEO_3_ULTRA_PROMAX_4.5.0.3.zip",
+  "sha256": "sha256:b4ba5856b461a4c30b5c9f039ad9783e53f8055bb3ab2ea768309284e038f39b",
+  "description": "Cập nhật V4.5.0.3:\n- Bổ sung ffprobe.exe vào gói phát hành để chức năng STT/phân tích media hoạt động đầy đủ.\n- Tách system prompt Video thường riêng cho node Phân Tích Video trong Workflow, không ảnh hưởng prompt Video thường ở tab phân tích.\n- Cho phép prompt Workflow Video thường mô tả/vẽ chữ trên ảnh và video theo yêu cầu, không còn bị tự chèn ràng buộc cấm text.\n- Bổ sung output voice_prompts và thumbnail_prompt để node Workflow xuất đúng cổng Lời Thoại và Prompt Thumbnail."
 }
