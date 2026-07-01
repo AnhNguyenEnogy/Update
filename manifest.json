@@ -1,6 +1,6 @@
 {
-  "version": "4.5.0.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.1/RUN_VEO_3_ULTRA_PROMAX_4.5.0.1.zip",
-  "sha256": "sha256:b396e3b1c1741e880528f521e734bb3d6b1f8c6905ab90e6ae53e9d62edeb60f",
-  "description": "Cập nhật V4.5.0.1:\n- Tối ưu dãn cách chữ phụ đề: Sửa lỗi khoảng cách chữ bị giãn rộng trong Karaoke ASS và Word Highlight ASS cho cả chế độ PicTex PNG và ASS.\n- Tự động đồng bộ prompt: Tự động đẩy kết quả phân tích từ node Phân Tích Video sang các node prompt hạ nguồn khi nối dây hoặc chạy xong node thành công.\n- Tích hợp cột prompt_thumbnail vào node Excel Batch và bổ sung cổng output tương ứng giúp tự động truyền prompt thumbnail đi Canvas."
+  "version": "4.5.0.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.2/RUN_VEO_3_ULTRA_PROMAX_4.5.0.2.zip",
+  "sha256": "sha256:91ece273ba9222de4310566fcefffac94dc81bf66d4c4b91bcfa372114d75894",
+  "description": "Cập nhật V4.5.0.2:\n- Tách system prompt Video thường riêng cho node Phân Tích Video trong Workflow, không ảnh hưởng prompt Video thường ở tab phân tích.\n- Cho phép prompt Workflow Video thường mô tả/vẽ chữ trên ảnh và video theo yêu cầu, không còn bị tự chèn ràng buộc cấm text.\n- Bổ sung output voice_prompts và thumbnail_prompt để node Workflow xuất đúng cổng Lời Thoại và Prompt Thumbnail.\n- Đồng bộ luồng Gemini API và Chrome Gemini cho prompt Workflow Video thường."
 }
