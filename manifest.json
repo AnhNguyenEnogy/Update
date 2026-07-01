@@ -1,6 +1,6 @@
 {
-  "version": "4.5.0.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.3/RUN_VEO_3_ULTRA_PROMAX_4.5.0.3.zip",
-  "sha256": "sha256:b4ba5856b461a4c30b5c9f039ad9783e53f8055bb3ab2ea768309284e038f39b",
-  "description": "Cập nhật V4.5.0.3:\n- Bổ sung ffprobe.exe vào gói phát hành để chức năng STT/phân tích media hoạt động đầy đủ.\n- Tách system prompt Video thường riêng cho node Phân Tích Video trong Workflow, không ảnh hưởng prompt Video thường ở tab phân tích.\n- Cho phép prompt Workflow Video thường mô tả/vẽ chữ trên ảnh và video theo yêu cầu, không còn bị tự chèn ràng buộc cấm text.\n- Bổ sung output voice_prompts và thumbnail_prompt để node Workflow xuất đúng cổng Lời Thoại và Prompt Thumbnail."
+  "version": "4.5.0.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.4/RUN_VEO_3_ULTRA_PROMAX_4.5.0.4.zip",
+  "sha256": "sha256:4587261a65886fbfa8eb08716fb2ad516ecb3c67ced5088eaca86c68a0a080b4",
+  "description": "Cập nhật V4.5.0.4:\n- Bổ sung thư viện PicTex/skia vào gói phát hành để chức năng viết chữ/Text Overlay lên video hoạt động trong Workflow.\n- Đảm bảo node Edit Video render Text Overlay PNG qua PicTex không còn lỗi thiếu thư viện.\n- Giữ ffprobe.exe trong gói phát hành để chức năng STT/phân tích media hoạt động đầy đủ."
 }
