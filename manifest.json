@@ -1,6 +1,6 @@
 {
-  "version": "4.5.0.5",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.5/RUN_VEO_3_ULTRA_PROMAX_4.5.0.5.zip",
+  "version": "4.5.0.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.5/RUN_VEO_3_ULTRA_PROMAX_4.5.0.4.zip",
   "sha256": "sha256:bdb0e81f83cc86e315bc12037ee6bd364217893fade7149a7cdb33bc7c0f8446",
   "description": "Cập nhật V4.5.0.5:\n- Toàn bộ request tạo ảnh/tạo video ưu tiên gửi qua Chrome/CDP page khi dùng captcha V2.\n- Bổ sung tự retry cho tab VEO3 thường với mã lỗi 3/13/403/500/503 theo cấu hình RETRY_WITH_ERROR.\n- Giữ ffprobe.exe và thư viện PicTex/skia trong gói phát hành để STT và Text Overlay hoạt động đầy đủ."
 }
