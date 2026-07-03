@@ -1,6 +1,6 @@
 {
-  "version": "4.5.0.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.4/RUN_VEO_3_ULTRA_PROMAX_4.5.0.4.zip",
-  "sha256": "sha256:4587261a65886fbfa8eb08716fb2ad516ecb3c67ced5088eaca86c68a0a080b4",
-  "description": "4.5.0.4"
+  "version": "4.5.0.6",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.6/RUN_VEO_3_ULTRA_PROMAX_4.5.0.6.zip",
+  "sha256": "sha256:ea4f3e09b0f09e611d722c9bbdd34d5650fc544a40bc87d38a5426806e4f0397",
+  "description": "Cập nhật V4.5.0.6:\n- Khắc phục triệt để lỗi Failed to fetch do CORS khi gửi request tạo video qua CDP (chế độ Captcha V3).\n- Tự động kiểm tra và hạ cấu hình bảo mật của Chrome (disable-web-security) khi chạy V3.\n- Giải quyết tranh chấp cổng debug CDP bằng cách theo dõi KILLED_PORTS và tự động cách ly các cổng chưa kịp giải phóng.\n- Loại bỏ lệnh kết nối trùng lặp để tránh xung đột luồng Playwright giữ Chrome của workflow.\n- Cách ly hoàn toàn, đảm bảo các luồng chạy Captcha V2 truyền thống của người dùng không bị ảnh hưởng."
 }
