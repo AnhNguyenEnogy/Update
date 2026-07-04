@@ -1,6 +1,6 @@
 {
   "version": "4.5.0.7",
   "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.7/RUN_VEO_3_ULTRA_PROMAX_4.5.0.7.zip",
-  "sha256": "sha256:cb74765cfbf10787648ff7c81c91b81316efcb6ecf1535dc5ba8524a88ad003e",
+  "sha256": "sha256:cd34ebfad1e1e2ac81c8d48376eee6200720702c5fceaf9a5af03f42cc9e36da",
   "description": "Cập nhật V4.5.0.7:\n- Tự động dọn dẹp triệt để các tiến trình Chrome và profile lock (V1 & V2) khi tắt phần mềm.\n- Đóng gói NordVPN trực tiếp bằng Nuitka (biên dịch mã nguồn sang nhị phân bảo mật tuyệt đối).\n- Di chuyển dữ liệu cấu hình NordVPN sang thư mục data_general bảo toàn khi cập nhật.\n- Tối ưu loại bỏ các font ngoại ngữ thừa (Trung/Hàn/Nhật) giúp thu gọn gói cài đặt."
 }
