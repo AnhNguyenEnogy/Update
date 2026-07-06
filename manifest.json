@@ -1,6 +1,6 @@
 {
-  "version": "4.5.0.8",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.8/RUN_VEO_3_ULTRA_PROMAX_4.5.0.8.zip",
-  "sha256": "sha256:fff9631f085a73f36c5162e8179a3394f1257152539d3099214deecaa73a2e11",
-  "description": "Cập nhật V4.5.0.8:\n- Tối ưu hóa hệ thống và sửa lỗi Recaptcha (403)."
+  "version": "4.5.0.9",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.0.9/RUN_VEO_3_ULTRA_PROMAX_4.5.0.9.zip",
+  "sha256": "sha256:98d56121dd646bb005c7260f227799b530cb824582a78da30e96fca87d10e941",
+  "description": "Cập nhật V4.5.0.9:\n- Fix lỗi nhỏ"
 }
