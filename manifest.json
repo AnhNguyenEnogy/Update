@@ -1,6 +1,6 @@
 {
-  "version": "4.5.1.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.1.1/RUN_VEO_3_ULTRA_PROMAX_4.5.1.1.zip",
-  "sha256": "sha256:16ae324054429ecc9b39b9a293b02362c789f4271d0ef875e34c73d98212febf",
-  "description": "Cập nhật V4.5.1.1:\n- Sửa lỗi tạo ảnh tham chiếu nhân vật (403)"
+  "version": "4.5.1.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.1.2/RUN_VEO_3_ULTRA_PROMAX_4.5.1.2.zip",
+  "sha256": "sha256:d4f2d01f9c90c879220a2b5277869d282ea47d4b02ca110a7a7f640e73e8f7f8",
+  "description": "Cập nhật V4.5.1.2:\n- Sửa lỗi tạo ảnh tham chiếu nhân vật (403)\n- Sửa lỗi hiển thị phông chữ (encoding) tại tab Phân tích video"
 }
