@@ -1,6 +1,6 @@
 {
-  "version": "4.5.1.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.1.4/RUN_VEO_3_ULTRA_PROMAX_4.5.1.4.zip",
-  "sha256": "sha256:6f51aadb1131266b279825b2e739c75d9fc6da35ad83cb0da343d834806e74ce",
-  "description": "Cập nhật V4.5.1.4:\n- Sửa lỗi tải video thất bại (401/403) do rò rỉ cookie sang CDN; dùng requests.Session phân tách domain cookie.\n- Sửa lỗi đơ giao diện khi bấm Dừng (Stop) bằng cách tối ưu quét psutil chrome và chạy ngầm tác vụ."
+  "version": "4.5.1.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.1.5/RUN_VEO_3_ULTRA_PROMAX_4.5.1.5.zip",
+  "sha256": "sha256:40a59634f37e26c699ee03011299d30ace1bd13313897274e6197c998fc04edc",
+  "description": "Cập nhật V4.5.1.5:\n- Khắc phục lỗi tải video 404/400 khi bật 'Fix Captcha' bằng cách phân tách cookie/session của tài khoản giải captcha sang account1_token."
 }
