@@ -1,6 +1,6 @@
 {
-  "version": "4.5.1.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.1.3/RUN_VEO_3_ULTRA_PROMAX_4.5.1.3.zip",
-  "sha256": "sha256:3a01a350c76bcc05d305f2b64f8c994aeae147042edfb1bc25656b565c062629",
-  "description": "Cập nhật V4.5.1.3:\n- Sửa lỗi giải Captcha V3 khác event loop (Lock is bound to a different event loop) khi chạy workflow"
+  "version": "4.5.1.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.1.4/RUN_VEO_3_ULTRA_PROMAX_4.5.1.4.zip",
+  "sha256": "sha256:6f51aadb1131266b279825b2e739c75d9fc6da35ad83cb0da343d834806e74ce",
+  "description": "Cập nhật V4.5.1.4:\n- Sửa lỗi tải video thất bại (401/403) do rò rỉ cookie sang CDN; dùng requests.Session phân tách domain cookie.\n- Sửa lỗi đơ giao diện khi bấm Dừng (Stop) bằng cách tối ưu quét psutil chrome và chạy ngầm tác vụ."
 }
