@@ -1,6 +1,6 @@
 {
-  "version": "4.5.1.5",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.1.5/RUN_VEO_3_ULTRA_PROMAX_4.5.1.5.zip",
-  "sha256": "sha256:40a59634f37e26c699ee03011299d30ace1bd13313897274e6197c998fc04edc",
-  "description": "Cập nhật V4.5.1.5:\n- Khắc phục lỗi tải video 404/400 khi bật 'Fix Captcha' bằng cách phân tách cookie/session của tài khoản giải captcha sang account1_token."
+  "version": "4.5.2.0",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.0/RUN_VEO_3_ULTRA_PROMAX_4.5.2.0.zip",
+  "sha256": "sha256:41fef1a41fc5a580e9f7479953173d2fc0850f03f7bf3c59894e9dfa42ef15ba",
+  "description": "Cập nhật V4.5.2.0:\n- Tích hợp cơ chế dọn dẹp storage và cache qua CDP cho Captcha V3.\n- Tự động dọn dẹp storage của Captcha V3 theo số lần gửi request tạo ảnh/video cấu hình ở settings.\n- Đồng bộ hóa tham số dọn dẹp từ workflow chính vào API lấy token V3."
 }
