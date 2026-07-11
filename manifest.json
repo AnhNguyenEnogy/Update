@@ -1,6 +1,6 @@
 {
-  "version": "4.5.2.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.0/RUN_VEO_3_ULTRA_PROMAX_4.5.2.0.zip",
-  "sha256": "sha256:53fa5cf9d3d62500ca7dde7c18277c7e1adcc55db2a7d2b54b2d57f6bcf28fb1",
-  "description": "Cập nhật V4.5.2.0:\n- Tích hợp cơ chế dọn dẹp storage và cache qua CDP cho Captcha V3.\n- Tự động dọn dẹp storage của Captcha V3 theo số lần gửi request tạo ảnh/video cấu hình ở settings.\n- Đồng bộ hóa tham số dọn dẹp từ workflow chính vào API lấy token V3."
+  "version": "4.5.2.3",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.3/RUN_VEO_3_ULTRA_PROMAX_4.5.2.3.zip",
+  "sha256": "sha256:7392218e031580bc9dcde86bc06abf1a4e8dc07b607dd59bf377418b3edd488c",
+  "description": "Cập nhật V4.5.2.3:\n- Fix NordVPN Bridge dùng đúng local port thực tế khi test Google qua VPN.\n- Xoay IP dùng toàn bộ server cùng quốc gia, ping trực tiếp server trước khi đổi bridge.\n- Nếu server fail thì thử server khác, tối đa 10 server/lần xoay.\n- Dừng timer test Google trong lúc xoay IP để tránh log/test chen ngang.\n- Cải thiện độ ổn định kết nối và xoay IP."
 }
