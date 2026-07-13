@@ -1,6 +1,6 @@
 {
-  "version": "4.5.2.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.3/RUN_VEO_3_ULTRA_PROMAX_4.5.2.3.zip",
-  "sha256": "sha256:7392218e031580bc9dcde86bc06abf1a4e8dc07b607dd59bf377418b3edd488c",
-  "description": "Cập nhật V4.5.2.3:\n- Fix NordVPN Bridge dùng đúng local port thực tế khi test Google qua VPN.\n- Xoay IP dùng toàn bộ server cùng quốc gia, ping trực tiếp server trước khi đổi bridge.\n- Nếu server fail thì thử server khác, tối đa 10 server/lần xoay.\n- Dừng timer test Google trong lúc xoay IP để tránh log/test chen ngang.\n- Cải thiện độ ổn định kết nối và xoay IP."
+  "version": "4.5.2.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.4/RUN_VEO_3_ULTRA_PROMAX_4.5.2.4.zip",
+  "sha256": "sha256:2b227fb1eb3454e4e4dfbf3356e64030eb7a73572d95aa2c8b3f3673ba569815",
+  "description": "Cập nhật V4.5.2.4:\n- Sửa tab Workflow không chạy và crash khi Dừng/Chạy lại.\n- Đồng bộ Captcha Gateway V2/V3 cho Idea-to-Video.\n- Sửa lỗi encoding log tiếng Việt trong Workflow.\n- Sửa crash Fashion Affiliate do import parser sai và lifecycle QThread.\n- Cải thiện độ ổn định các luồng tạo ảnh và video."
 }
