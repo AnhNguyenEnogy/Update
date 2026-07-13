@@ -1,6 +1,6 @@
 {
-  "version": "4.5.2.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.4/RUN_VEO_3_ULTRA_PROMAX_4.5.2.4.zip",
-  "sha256": "sha256:2b227fb1eb3454e4e4dfbf3356e64030eb7a73572d95aa2c8b3f3673ba569815",
-  "description": "Cập nhật V4.5.2.4:\n- Sửa tab Workflow không chạy và crash khi Dừng/Chạy lại.\n- Đồng bộ Captcha Gateway V2/V3 cho Idea-to-Video.\n- Sửa lỗi encoding log tiếng Việt trong Workflow.\n- Sửa crash Fashion Affiliate do import parser sai và lifecycle QThread.\n- Cải thiện độ ổn định các luồng tạo ảnh và video."
+  "version": "4.5.2.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.5/RUN_VEO_3_ULTRA_PROMAX_4.5.2.5.zip",
+  "sha256": "sha256:378679927ee582b52deba236c313d7d3f79fb725cc9d06aff5dedc6f32f94826",
+  "description": "Cập nhật V4.5.2.5:\n- Đồng bộ tùy chọn Bỏ qua lỗi AUDIO cho tab Workflow.\n- Đồng bộ audioFailurePreference cho Text-to-Video, Image-to-Video và Start-End.\n- Đồng bộ tùy chọn audio cho Sync Character và Voice Sync.\n- Khi bật, video không tiếng vẫn được trả về thay vì bị chặn.\n- Cải thiện tính nhất quán payload của toàn bộ luồng tạo video."
 }
