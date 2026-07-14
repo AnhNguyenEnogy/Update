@@ -1,6 +1,6 @@
 {
-  "version": "4.5.2.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.6/RUN_VEO_3_ULTRA_PROMAX_4.5.2.6.zip",
-  "sha256": "sha256:0b04db3b160c8058787570c1f233a0f807211098450ae97b15a3379d8a5c2c7c",
-  "description": "Cập nhật V4.5.2.6:\n- Tích hợp thanh tốc độ voice thủ công (0.50x-2.00x) và tính năng nghe thử realtime trong phần Chèn voice của Edit Video.\n- Tự động khóa (disable) slider chỉnh tốc độ thủ công khi bật tùy chọn tự động.\n- Tích hợp tùy chọn 'Tự động chỉnh tốc độ voice' (Auto Voice Speed) tự động điều chỉnh tốc độ voice phù hợp thời lượng video khi voice dài hơn video.\n- Đồng bộ sơ đồ Mermaid và tài liệu kiến trúc."
+  "version": "4.5.2.7",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.7/RUN_VEO_3_ULTRA_PROMAX_4.5.2.7.zip",
+  "sha256": "sha256:0a88268375cc0cad399ae5d4a746e429c99cf8b7761f7c4ff271414e10619013",
+  "description": "Cập nhật V4.5.2.7:\n- Tích hợp thanh trượt và ô nhập điều chỉnh tốc độ từ 0.5x đến 2.5x trong bảng cấu hình của node Ghép Video (merge_video).\n- Hỗ trợ xem trước tự động tức thì khi kéo thả thanh trượt hoặc nhập xong tốc độ.\n- Cho phép chạy và đổi tốc độ video ghép chỉ với 1 video đầu vào.\n- Tối ưu luồng xử lý âm thanh và hình ảnh của FFmpeg khi đổi tốc độ."
 }
