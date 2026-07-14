@@ -1,6 +1,6 @@
 {
-  "version": "4.5.2.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.7/RUN_VEO_3_ULTRA_PROMAX_4.5.2.7.zip",
-  "sha256": "sha256:0a88268375cc0cad399ae5d4a746e429c99cf8b7761f7c4ff271414e10619013",
-  "description": "Cập nhật V4.5.2.7:\n- Tích hợp thanh trượt và ô nhập điều chỉnh tốc độ từ 0.5x đến 2.5x trong bảng cấu hình của node Ghép Video (merge_video).\n- Hỗ trợ xem trước tự động tức thì khi kéo thả thanh trượt hoặc nhập xong tốc độ.\n- Cho phép chạy và đổi tốc độ video ghép chỉ với 1 video đầu vào.\n- Tối ưu luồng xử lý âm thanh và hình ảnh của FFmpeg khi đổi tốc độ."
+  "version": "4.5.2.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.8/RUN_VEO_3_ULTRA_PROMAX_4.5.2.8.zip",
+  "sha256": "sha256:fa3c9d45a9a3c3e3cb25d723be2f875d18a019f77287df0a964bc6072a102b20",
+  "description": "Cập nhật V4.5.2.8:\n- Khắc phục lỗi phân tích kịch bản chế độ 'Video thường TEXT' vẫn trả về JSON: tối ưu logic workflow_mode và xử lý không phân biệt hoa thường cho chế độ chạy.\n- Bổ sung trường voice_prompts vào response schema của Gemini API và sửa lỗi regex thay thế thumbnail_prompt do line endings.\n- Cải tiến bộ trích xuất kịch bản (_extract_text_from_dict) thành đệ quy, trích xuất trọn vẹn thông tin từ tất cả các cấp JSON lồng nhau (background_lock, camera...).\n- Sửa lỗi tự động thực thi upscale video ở node Edit Video và Ghép Video khi người dùng không tích chọn checkbox.\n- Cập nhật tài liệu kiến trúc phân tích video."
 }
