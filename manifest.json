@@ -1,6 +1,6 @@
 {
-  "version": "4.5.2.5",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.5/RUN_VEO_3_ULTRA_PROMAX_4.5.2.5.zip",
-  "sha256": "sha256:378679927ee582b52deba236c313d7d3f79fb725cc9d06aff5dedc6f32f94826",
-  "description": "Cập nhật V4.5.2.5:\n- Đồng bộ tùy chọn Bỏ qua lỗi AUDIO cho tab Workflow.\n- Đồng bộ audioFailurePreference cho Text-to-Video, Image-to-Video và Start-End.\n- Đồng bộ tùy chọn audio cho Sync Character và Voice Sync.\n- Khi bật, video không tiếng vẫn được trả về thay vì bị chặn.\n- Cải thiện tính nhất quán payload của toàn bộ luồng tạo video."
+  "version": "4.5.2.6",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.6/RUN_VEO_3_ULTRA_PROMAX_4.5.2.6.zip",
+  "sha256": "sha256:0b04db3b160c8058787570c1f233a0f807211098450ae97b15a3379d8a5c2c7c",
+  "description": "Cập nhật V4.5.2.6:\n- Tích hợp thanh tốc độ voice thủ công (0.50x-2.00x) và tính năng nghe thử realtime trong phần Chèn voice của Edit Video.\n- Tự động khóa (disable) slider chỉnh tốc độ thủ công khi bật tùy chọn tự động.\n- Tích hợp tùy chọn 'Tự động chỉnh tốc độ voice' (Auto Voice Speed) tự động điều chỉnh tốc độ voice phù hợp thời lượng video khi voice dài hơn video.\n- Đồng bộ sơ đồ Mermaid và tài liệu kiến trúc."
 }
