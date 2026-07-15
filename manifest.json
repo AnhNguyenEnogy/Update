@@ -1,6 +1,6 @@
 {
-  "version": "4.5.2.8",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.8/RUN_VEO_3_ULTRA_PROMAX_4.5.2.8.zip",
-  "sha256": "sha256:fa3c9d45a9a3c3e3cb25d723be2f875d18a019f77287df0a964bc6072a102b20",
-  "description": "Cập nhật V4.5.2.8:\n- Khắc phục lỗi phân tích kịch bản chế độ 'Video thường TEXT' vẫn trả về JSON: tối ưu logic workflow_mode và xử lý không phân biệt hoa thường cho chế độ chạy.\n- Bổ sung trường voice_prompts vào response schema của Gemini API và sửa lỗi regex thay thế thumbnail_prompt do line endings.\n- Cải tiến bộ trích xuất kịch bản (_extract_text_from_dict) thành đệ quy, trích xuất trọn vẹn thông tin từ tất cả các cấp JSON lồng nhau (background_lock, camera...).\n- Sửa lỗi tự động thực thi upscale video ở node Edit Video và Ghép Video khi người dùng không tích chọn checkbox.\n- Cập nhật tài liệu kiến trúc phân tích video."
+  "version": "4.5.2.9",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.9/RUN_VEO_3_ULTRA_PROMAX_4.5.2.9.zip",
+  "sha256": "sha256:8407015fc5eaeeed040e5ba995a830585b0b5f8ff4df668c5d78116bc19fcd79",
+  "description": "Cập nhật V4.5.2.9:\n- Tối ưu chế độ 'Video thường TEXT': Gemini sinh trực tiếp prompt dạng văn tả cảnh tự nhiên (natural plain text), tự động đặt tên nhân vật và tái sử dụng tên để tối ưu hóa tính nhất quán.\n- Cấu hình Schema động cho Gemini API: tự động chuyển đổi kiểu dữ liệu image_prompt và veo_prompt thành STRING khi chạy chế độ TEXT.\n- Cải tiến hàm kiểm tra nhân vật: tự động tiêm nhân vật chính cho cả veo_prompt dạng văn bản thuần."
 }
