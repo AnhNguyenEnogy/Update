@@ -1,6 +1,6 @@
 {
-  "version": "4.5.3.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.0/RUN_VEO_3_ULTRA_PROMAX_4.5.3.0.zip",
-  "sha256": "sha256:79c2833d9993b94992a11b6b51e01ff82b0b24530b928adfe593c70c33123d70",
-  "description": "Cập nhật V4.5.3.0:\n- Khắc phục lỗi tự động nối dây ngoài ý muốn của node upload_media trên Workflow Canvas.\n- Cho phép lựa chọn model OMNI Flash khi tạo video từ ảnh (Single & Start-End) ở cả giao diện Tab thường và Workflow Node.\n- Tự động ánh xạ model key OMNI Flash về key 'abra_r2v' tương thích với API của Google Labs."
+  "version": "4.5.3.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.1/RUN_VEO_3_ULTRA_PROMAX_4.5.3.1.zip",
+  "sha256": "sha256:6d2c2d29e5a40e5cdf08e461614ceadf5618a56943c469ef7bd59a5e93a5e40e",
+  "description": "Cập nhật V4.5.3.1:\n- Tối ưu hóa phản hồi kịch bản thoại (voice_prompts) dạng JSON Array từ Gemini API.\n- Tự động chèn/pad thêm dòng trống cho các cảnh không thoại, bảo đảm số dòng thoại khớp chính xác 1-1 với số lượng cảnh, loại bỏ lỗi gộp thoại thành một dòng duy nhất."
 }
