@@ -1,6 +1,6 @@
 {
-  "version": "4.5.2.9",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.2.9/RUN_VEO_3_ULTRA_PROMAX_4.5.2.9.zip",
-  "sha256": "sha256:8407015fc5eaeeed040e5ba995a830585b0b5f8ff4df668c5d78116bc19fcd79",
-  "description": "Cập nhật V4.5.2.9:\n- Tối ưu chế độ 'Video thường TEXT': Gemini sinh trực tiếp prompt dạng văn tả cảnh tự nhiên (natural plain text), tự động đặt tên nhân vật và tái sử dụng tên để tối ưu hóa tính nhất quán.\n- Cấu hình Schema động cho Gemini API: tự động chuyển đổi kiểu dữ liệu image_prompt và veo_prompt thành STRING khi chạy chế độ TEXT.\n- Cải tiến hàm kiểm tra nhân vật: tự động tiêm nhân vật chính cho cả veo_prompt dạng văn bản thuần."
+  "version": "4.5.3.0",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.0/RUN_VEO_3_ULTRA_PROMAX_4.5.3.0.zip",
+  "sha256": "sha256:79c2833d9993b94992a11b6b51e01ff82b0b24530b928adfe593c70c33123d70",
+  "description": "Cập nhật V4.5.3.0:\n- Khắc phục lỗi tự động nối dây ngoài ý muốn của node upload_media trên Workflow Canvas.\n- Cho phép lựa chọn model OMNI Flash khi tạo video từ ảnh (Single & Start-End) ở cả giao diện Tab thường và Workflow Node.\n- Tự động ánh xạ model key OMNI Flash về key 'abra_r2v' tương thích với API của Google Labs."
 }
