@@ -1,6 +1,6 @@
 {
-  "version": "4.5.3.2",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.2/RUN_VEO_3_ULTRA_PROMAX_4.5.3.2.zip",
-  "sha256": "sha256:d57cffd8609f11a9b62aa1059a02a23650369dd4801e691103fa43218d97661c",
-  "description": "Cập nhật V4.5.3.2:\n- Sửa Workflow Video thường TEXT còn xuất Prompt Ảnh dạng JSON.\n- Giữ Prompt Video dạng văn xuôi, không bung character/background locks.\n- Bắt buộc lời thoại có tên người nói và nháy kép ASCII.\n- Giữ nguyên schema và hậu xử lý của các luồng phân tích video khác."
+  "version": "4.5.3.3",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.3/RUN_VEO_3_ULTRA_PROMAX_4.5.3.3.zip",
+  "sha256": "sha256:e85398f70fe0b3fa6f1a9636dd171bddbd650c4c4ec244d9561c322d1a7ecad5",
+  "description": "Cập nhật V4.5.3.3:\n- Thêm Tự động chỉnh tốc độ VIDEO trong Node Edit Video.\n- Hai chế độ tự động chỉnh tốc độ voice và video loại trừ nhau.\n- Video tự khớp thời lượng voice theo video_duration / voice_duration.\n- Voice giữ nguyên 1.0x; âm gốc được đồng bộ tốc độ nếu giữ lại."
 }
