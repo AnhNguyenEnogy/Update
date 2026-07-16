@@ -1,6 +1,6 @@
 {
-  "version": "4.5.3.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.3/RUN_VEO_3_ULTRA_PROMAX_4.5.3.3.zip",
-  "sha256": "sha256:e85398f70fe0b3fa6f1a9636dd171bddbd650c4c4ec244d9561c322d1a7ecad5",
-  "description": "Cập nhật V4.5.3.3:\n- Thêm Tự động chỉnh tốc độ VIDEO trong Node Edit Video.\n- Hai chế độ tự động chỉnh tốc độ voice và video loại trừ nhau.\n- Video tự khớp thời lượng voice theo video_duration / voice_duration.\n- Voice giữ nguyên 1.0x; âm gốc được đồng bộ tốc độ nếu giữ lại."
+  "version": "4.5.3.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.4/RUN_VEO_3_ULTRA_PROMAX_4.5.3.4.zip",
+  "sha256": "sha256:eb2b7f3811346586aa3a31f76d7680a970fbdbad2e4865b0b91c941e563484a1",
+  "description": "Cập nhật V4.5.3.4:\n- Bổ sung file prompt mẫu video thời trang nam vào gói tool.\n- Sửa bước build không copy được tên file có ký tự tiếng Việt.\n- Sửa Edit Video vẫn tự upscale lên 2K khi người dùng không chọn Upscale video."
 }
