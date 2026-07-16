@@ -1,6 +1,6 @@
 {
-  "version": "4.5.3.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.4/RUN_VEO_3_ULTRA_PROMAX_4.5.3.4.zip",
-  "sha256": "sha256:eb2b7f3811346586aa3a31f76d7680a970fbdbad2e4865b0b91c941e563484a1",
-  "description": "Cập nhật V4.5.3.4:\n- Bổ sung file prompt mẫu video thời trang nam vào gói tool.\n- Sửa bước build không copy được tên file có ký tự tiếng Việt.\n- Sửa Edit Video vẫn tự upscale lên 2K khi người dùng không chọn Upscale video."
+  "version": "4.5.3.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.5/RUN_VEO_3_ULTRA_PROMAX_4.5.3.5.zip",
+  "sha256": "sha256:e790a58a1842b19f0e82ac00261c5bd8e36e98ad4f43289ca06b4b651fea020b",
+  "description": "Cập nhật V4.5.3.5:\n- Giảm tải ảnh và video preview trên Workflow Canvas.\n- Sửa điểm và dây nối để lại bóng khi kéo node.\n- Giảm lượt vẽ dư của dây tĩnh để giao diện mượt hơn."
 }
