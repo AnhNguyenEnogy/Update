@@ -1,6 +1,6 @@
 {
-  "version": "4.5.3.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.7/RUN_VEO_3_ULTRA_PROMAX_4.5.3.7.zip",
-  "sha256": "sha256:f75a7972262bbe73ff32fa1e68ff42e1c91af6c1adc09224ab1828ada48052b6",
-  "description": "Cập nhật V4.5.3.7:\n- Sửa Batch không báo thành công sớm khi node Phân Tích Video vừa hoàn tất.\n- Batch giữ trạng thái đang chạy cho tới khi toàn bộ workflow kết thúc.\n- Sửa node ảnh/video mở hai popup Prompt liên tiếp.\n- Hỗ trợ Danh Sách Ảnh hai cột song song và hiển thị số lượng ảnh gọn hơn.\n- Tối ưu preview và thao tác kéo node trên Workflow Canvas."
+  "version": "4.5.3.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.8/RUN_VEO_3_ULTRA_PROMAX_4.5.3.8.zip",
+  "sha256": "sha256:88d2287cb7a775d8018e5139bcc96cfbb184a7ee99dafaa0bf8f95bf7515c04e",
+  "description": "Cập nhật V4.5.3.8:\n- Thêm Clone Voice ngẫu nhiên từ danh sách voice mẫu theo từng lượt thực thi.\n- Cho phép thêm nhiều mẫu, chọn hàng và xóa nhiều voice mẫu cùng lúc.\n- Tối ưu checkbox random; khung danh sách chỉ hiện khi bật và node tự co giãn.\n- Đồng bộ nút Nghe/Dừng cho từng mẫu và Nghe Mẫu/Dừng cho mẫu đơn.\n- Cải thiện hiển thị, thao tác và trạng thái phát trong node Tạo Voice."
 }
