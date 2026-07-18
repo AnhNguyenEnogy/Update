@@ -1,6 +1,6 @@
 {
-  "version": "4.5.3.5",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.5/RUN_VEO_3_ULTRA_PROMAX_4.5.3.5.zip",
-  "sha256": "sha256:e790a58a1842b19f0e82ac00261c5bd8e36e98ad4f43289ca06b4b651fea020b",
-  "description": "Cập nhật V4.5.3.5:\n- Giảm tải ảnh và video preview trên Workflow Canvas.\n- Sửa điểm và dây nối để lại bóng khi kéo node.\n- Giảm lượt vẽ dư của dây tĩnh để giao diện mượt hơn."
+  "version": "4.5.3.6",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.6/RUN_VEO_3_ULTRA_PROMAX_4.5.3.6.zip",
+  "sha256": "sha256:bb72ab6c77bf1e7cd92d29e6e749ce6dbe9081cc826793fc063857a96b59fd38",
+  "description": "Cập nhật V4.5.3.6:\n- Nâng cấp Workflow Canvas và luồng Batch theo project.\n- Hỗ trợ Danh Sách Ảnh hai cột song song, giữ ổn định cổng image_out_1.\n- Căn giữa cổng output của mọi node.\n- Sửa node ảnh/video mở hai popup Prompt liên tiếp.\n- Tối ưu preview và thao tác kéo node trên Canvas."
 }
