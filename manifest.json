@@ -1,6 +1,6 @@
 {
-  "version": "4.5.3.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.6/RUN_VEO_3_ULTRA_PROMAX_4.5.3.6.zip",
-  "sha256": "sha256:bb72ab6c77bf1e7cd92d29e6e749ce6dbe9081cc826793fc063857a96b59fd38",
-  "description": "Cập nhật V4.5.3.6:\n- Nâng cấp Workflow Canvas và luồng Batch theo project.\n- Hỗ trợ Danh Sách Ảnh hai cột song song, giữ ổn định cổng image_out_1.\n- Căn giữa cổng output của mọi node.\n- Sửa node ảnh/video mở hai popup Prompt liên tiếp.\n- Tối ưu preview và thao tác kéo node trên Canvas."
+  "version": "4.5.3.7",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.7/RUN_VEO_3_ULTRA_PROMAX_4.5.3.7.zip",
+  "sha256": "sha256:f75a7972262bbe73ff32fa1e68ff42e1c91af6c1adc09224ab1828ada48052b6",
+  "description": "Cập nhật V4.5.3.7:\n- Sửa Batch không báo thành công sớm khi node Phân Tích Video vừa hoàn tất.\n- Batch giữ trạng thái đang chạy cho tới khi toàn bộ workflow kết thúc.\n- Sửa node ảnh/video mở hai popup Prompt liên tiếp.\n- Hỗ trợ Danh Sách Ảnh hai cột song song và hiển thị số lượng ảnh gọn hơn.\n- Tối ưu preview và thao tác kéo node trên Workflow Canvas."
 }
