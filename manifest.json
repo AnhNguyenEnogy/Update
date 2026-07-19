@@ -1,6 +1,6 @@
 {
-  "version": "4.5.3.9",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.3.9/RUN_VEO_3_ULTRA_PROMAX_4.5.3.9.zip",
-  "sha256": "sha256:317cbd6245419bdb66796ffb2a353b8442a905ffe0cb06406e14d7f5c4ed2d0a",
-  "description": "Cập nhật V4.5.3.9:\n- Sửa Batch Queue chuyển dự án quá sớm ngay sau khi Phân Tích Video hoàn tất.\n- Mỗi Batch chạy tuần tự trọn vẹn toàn bộ workflow trước khi chuyển sang Batch kế tiếp.\n- Chờ hoàn tất tạo ảnh, tạo video, tạo voice, ghép/edit video và mọi node downstream.\n- Khóa race giữa runner chuyển tiếp Analyze cũ và runner mới cùng project.\n- Cải thiện tính chính xác của trạng thái thành công và scheduler Batch."
+  "version": "4.5.4.0",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.0/RUN_VEO_3_ULTRA_PROMAX_4.5.4.0.zip",
+  "sha256": "sha256:dd8d4ebf404d128879cf7ed2887472a33bf3aad0dcfc84d4b2db67b2f9793b38",
+  "description": "Cập nhật V4.5.4.0:\n- Tối ưu hóa tính năng Clone Voice theo dòng: Loại bỏ tự động ngắt nghỉ lâu ở dấu chấm và giảm khoảng lặng mặc định giữa các dòng xuống còn 0.3s giúp audio liền mạch tự nhiên.\n- Khắc phục triệt để lỗi dropdown menu trong Tab Workflow: giữ nguyên tên các workflow cũ đã đổi tên hoặc xóa (chỉ tắt app bật lại mới mất).\n- Đồng bộ hóa sơ đồ Mermaid và các tài liệu kiến trúc tương ứng."
 }
