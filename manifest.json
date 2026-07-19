@@ -1,6 +1,6 @@
 {
-  "version": "4.5.4.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.0/RUN_VEO_3_ULTRA_PROMAX_4.5.4.0.zip",
-  "sha256": "sha256:dd8d4ebf404d128879cf7ed2887472a33bf3aad0dcfc84d4b2db67b2f9793b38",
-  "description": "Cập nhật V4.5.4.0:\n- Tối ưu hóa tính năng Clone Voice theo dòng: Loại bỏ tự động ngắt nghỉ lâu ở dấu chấm và giảm khoảng lặng mặc định giữa các dòng xuống còn 0.3s giúp audio liền mạch tự nhiên.\n- Khắc phục triệt để lỗi dropdown menu trong Tab Workflow: giữ nguyên tên các workflow cũ đã đổi tên hoặc xóa (chỉ tắt app bật lại mới mất).\n- Đồng bộ hóa sơ đồ Mermaid và các tài liệu kiến trúc tương ứng."
+  "version": "4.5.4.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.1/RUN_VEO_3_ULTRA_PROMAX_4.5.4.1.zip",
+  "sha256": "sha256:4e8438bf7476fb5500f5ccfe8ca4190d524b0fe8ff3ad622aa6382f410d0a970",
+  "description": "Cập nhật V4.5.4.1:\n- Tích hợp 2 kịch bản hệ thống mặc định mới: Thời Trang Nam 3 cảnh và Thời Trang Nữ Cầm Điện thoại.\n- Điều chỉnh chiều cao ban đầu và chiều cao tối thiểu cho hai node Ghép Video (merge_video) và Đồng Bộ Ảnh Giọng (sync_image_voice) lên 534px để đảm bảo các nút Xem, Tạo Lại, Thư Mục không bị thò ra ngoài khi tải kịch bản cũ."
 }
