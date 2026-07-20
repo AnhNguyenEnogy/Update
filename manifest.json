@@ -1,6 +1,6 @@
 {
-  "version": "4.5.4.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.1/RUN_VEO_3_ULTRA_PROMAX_4.5.4.1.zip",
-  "sha256": "sha256:4e8438bf7476fb5500f5ccfe8ca4190d524b0fe8ff3ad622aa6382f410d0a970",
-  "description": "Cập nhật V4.5.4.1:\n- Tích hợp 2 kịch bản hệ thống mặc định mới: Thời Trang Nam 3 cảnh và Thời Trang Nữ Cầm Điện thoại.\n- Điều chỉnh chiều cao ban đầu và chiều cao tối thiểu cho hai node Ghép Video (merge_video) và Đồng Bộ Ảnh Giọng (sync_image_voice) lên 534px để đảm bảo các nút Xem, Tạo Lại, Thư Mục không bị thò ra ngoài khi tải kịch bản cũ."
+  "version": "4.5.4.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.2/RUN_VEO_3_ULTRA_PROMAX_4.5.4.2.zip",
+  "sha256": "sha256:c07faaeae5140f5d0b8e1ffdb52908c61e546196662eb176fcb4ebf7b44b7bdd",
+  "description": "Cập nhật V4.5.4.2:\n- Sửa lỗi tạo video đơn lẻ và các tab thường khác lưu sai thư mục (lưu nhầm sang thư mục Workflow).\n- Sửa lỗi ảnh tạo ra từ Generate Image/Image to Image bị lưu nhầm vào folder thumbnail thay vì folder image.\n- Cập nhật tài liệu hướng dẫn lưu file của AI Agent trong AGENTS.md."
 }
