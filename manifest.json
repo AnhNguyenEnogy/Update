@@ -1,6 +1,6 @@
 {
-  "version": "4.5.4.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.3/RUN_VEO_3_ULTRA_PROMAX_4.5.4.3.zip",
-  "sha256": "sha256:464dc30aad182dbc0ccc588ae6e7b97b697eb3d900e0f049daef9dbcc2e24697",
-  "description": "Cập nhật V4.5.4.3:\n- Nâng cấp prompt phân tích Video thường và Video thường TEXT với chuyển động, quay phim, âm thanh và tính liên tục không gian chi tiết hơn.\n- Chuẩn hóa prompt TEXT dạng văn xuôi, giọng thoại, ảnh tham chiếu và ánh xạ lời thoại theo từng cảnh trên cả Gemini API và Chrome.\n- Loại bỏ toàn bộ quy tắc tự động thêm hoặc chuyển câu kêu gọi tương tác trong các chế độ phân tích video.\n- Tự động làm mới cache phân tích cũ một lần để áp dụng contract lời thoại mới."
+  "version": "4.5.4.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.4/RUN_VEO_3_ULTRA_PROMAX_4.5.4.4.zip",
+  "sha256": "sha256:e09f56b5a4b44e5552bf494499e9f0aeb3e2b12e2c8b5cceed9179bed0c1c915",
+  "description": "Cập nhật V4.5.4.4:\n- Cập nhật danh sách Gemini model và cấu hình retry/đổi model khi phân tích video.\n- Sửa luồng dừng workflow trong khi Gemini đang retry lỗi 503.\n- Cải tiến node Phân Tích Video, hiển thị model đang sử dụng và tinh chỉnh combobox model.\n- Cải tiến Clone Voice theo từng đoạn, retry riêng, log tiến trình và ghép lại voice.\n- Bổ sung xóa logo, zoom, chèn logo, nền chữ/tiêu đề và preview chính xác trong Edit Video.\n- Cập nhật prompt phân tích video và prompt bài thuốc cổ nhân."
 }
