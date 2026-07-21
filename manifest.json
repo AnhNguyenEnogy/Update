@@ -1,6 +1,6 @@
 {
-  "version": "4.5.4.2",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.2/RUN_VEO_3_ULTRA_PROMAX_4.5.4.2.zip",
-  "sha256": "sha256:c07faaeae5140f5d0b8e1ffdb52908c61e546196662eb176fcb4ebf7b44b7bdd",
-  "description": "Cập nhật V4.5.4.2:\n- Sửa lỗi tạo video đơn lẻ và các tab thường khác lưu sai thư mục (lưu nhầm sang thư mục Workflow).\n- Sửa lỗi ảnh tạo ra từ Generate Image/Image to Image bị lưu nhầm vào folder thumbnail thay vì folder image.\n- Cập nhật tài liệu hướng dẫn lưu file của AI Agent trong AGENTS.md."
+  "version": "4.5.4.3",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.3/RUN_VEO_3_ULTRA_PROMAX_4.5.4.3.zip",
+  "sha256": "sha256:464dc30aad182dbc0ccc588ae6e7b97b697eb3d900e0f049daef9dbcc2e24697",
+  "description": "Cập nhật V4.5.4.3:\n- Nâng cấp prompt phân tích Video thường và Video thường TEXT với chuyển động, quay phim, âm thanh và tính liên tục không gian chi tiết hơn.\n- Chuẩn hóa prompt TEXT dạng văn xuôi, giọng thoại, ảnh tham chiếu và ánh xạ lời thoại theo từng cảnh trên cả Gemini API và Chrome.\n- Loại bỏ toàn bộ quy tắc tự động thêm hoặc chuyển câu kêu gọi tương tác trong các chế độ phân tích video.\n- Tự động làm mới cache phân tích cũ một lần để áp dụng contract lời thoại mới."
 }
