@@ -1,6 +1,6 @@
 {
-  "version": "4.5.4.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.4/RUN_VEO_3_ULTRA_PROMAX_4.5.4.4.zip",
-  "sha256": "sha256:e09f56b5a4b44e5552bf494499e9f0aeb3e2b12e2c8b5cceed9179bed0c1c915",
-  "description": "Cập nhật V4.5.4.4:\n- Cập nhật danh sách Gemini model và cấu hình retry/đổi model khi phân tích video.\n- Sửa luồng dừng workflow trong khi Gemini đang retry lỗi 503.\n- Cải tiến node Phân Tích Video, hiển thị model đang sử dụng và tinh chỉnh combobox model.\n- Cải tiến Clone Voice theo từng đoạn, retry riêng, log tiến trình và ghép lại voice.\n- Bổ sung xóa logo, zoom, chèn logo, nền chữ/tiêu đề và preview chính xác trong Edit Video.\n- Cập nhật prompt phân tích video và prompt bài thuốc cổ nhân."
+  "version": "4.5.4.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.5/RUN_VEO_3_ULTRA_PROMAX_4.5.4.5.zip",
+  "sha256": "sha256:9b9eafa01ae7e0ccf65820e7c984c95fb24210c1edaf2f8b2f2fdf44ee713feb",
+  "description": "Cập nhật V4.5.4.5:\n- Bổ sung chỉnh âm lượng video gốc từ 50% đến 500% trong node Khớp Video & Voice.\n- Bổ sung tùy chọn chỉ tắt âm thanh cảnh 1, giữ âm thanh gốc cho các cảnh sau.\n- Đồng bộ xử lý âm lượng theo từng segment trước khi ghép voice.\n- Điều chỉnh kích thước node để hiển thị đầy đủ các tùy chọn âm thanh và nút hành động."
 }
