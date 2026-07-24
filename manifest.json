@@ -1,6 +1,6 @@
 {
-  "version": "4.5.4.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.6/RUN_VEO_3_ULTRA_PROMAX_4.5.4.6.zip",
-  "sha256": "sha256:a6a5c59baa41ea3e4f65424ff3eb6c3c2ce787e38110c5a3f0b01b4f4b3bb8b3",
-  "description": "Cập nhật V4.5.4.6:\n- Sửa tùy chọn Chỉ tắt âm thanh cảnh 1 vẫn giữ âm thanh gốc trong một số trường hợp.\n- Ép FFmpeg dùng đúng luồng âm thanh im lặng cho cảnh đầu thay vì tự chọn audio nguồn.\n- Giữ nguyên chỉnh âm lượng video gốc cho các cảnh sau và không ảnh hưởng voice lồng ghép."
+  "version": "4.5.4.7",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.7/RUN_VEO_3_ULTRA_PROMAX_4.5.4.7.zip",
+  "sha256": "sha256:e129669fcf0999940b5ca9c877513373647e5a66387d39189d956eda8fb03c85",
+  "description": "update"
 }
