@@ -1,6 +1,6 @@
 {
-  "version": "4.5.4.9",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.4.9/RUN_VEO_3_ULTRA_PROMAX_4.5.4.9.zip",
-  "sha256": "sha256:9e5fc1b5fe8789d55cc43b435ca5c35a03fa7f7fdd6996fbbdba3a493b169543",
-  "description": "update voice"
+  "version": "4.5.5.0",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.0/RUN_VEO_3_ULTRA_PROMAX_4.5.5.0.zip",
+  "sha256": "sha256:2e387f70564e5e53ad35a7451521438435c108e6120e30c03194d7d1a52984dd",
+  "description": "Cải thiện tiêu đề nhiều dòng và căn lề trong Edit Video"
 }
