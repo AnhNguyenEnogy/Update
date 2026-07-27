@@ -1,6 +1,6 @@
 {
-  "version": "4.5.5.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.1/RUN_VEO_3_ULTRA_PROMAX_4.5.5.1.zip",
-  "sha256": "sha256:c579e06a6eb977b94102b7bd50cc5bf3e0f76fc9cb7e1ea7b4087b4f6f58a365",
-  "description": "Sửa lỗi Khớp Video & Voice, đồng bộ tiêu đề và cải thiện giao diện Edit Video"
+  "version": "4.5.5.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.2/RUN_VEO_3_ULTRA_PROMAX_4.5.5.2.zip",
+  "sha256": "sha256:1973c1b33827d9c53b37451bbb09409bc528a79d3c02680c911b1fe3fbaffc0b",
+  "description": "Đồng bộ chính xác mốc chuyển cảnh theo voice giữa Khớp Video & Voice và Voice + Ảnh; sửa thời lượng cảnh; thêm workflow hệ thống Người Que Tạo Từ Ảnh và đồng bộ system prompt Người Que NEW/1706"
 }
