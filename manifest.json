@@ -1,6 +1,6 @@
 {
-  "version": "4.5.5.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.3/RUN_VEO_3_ULTRA_PROMAX_4.5.5.3.zip",
-  "sha256": "sha256:c925df2b5c8abdc7db7cad54acb4f184771f0ee31106b13dd77efa0f39a1b513",
-  "description": "Cải thiện giao diện."
+  "version": "4.5.5.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.4/RUN_VEO_3_ULTRA_PROMAX_4.5.5.4.zip",
+  "sha256": "sha256:916f342000006443a4a9db180eeee22f6b7561372d925ed6598cfcef7d8c86fe",
+  "description": "Cải thiện giao diện Motion Control; hỗ trợ xử lý video dài theo từng đoạn, giữ âm thanh video gốc; bổ sung chữ chạy và tối ưu tốc độ Edit Video bằng NVIDIA NVENC với CPU dự phòng."
 }
