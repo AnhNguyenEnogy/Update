@@ -1,6 +1,6 @@
 {
-  "version": "4.5.5.5",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.5/RUN_VEO_3_ULTRA_PROMAX_4.5.5.5.zip",
-  "sha256": "sha256:4b332ab768c66852d5530d74972fbc250b52881080c7da614a88e00efccb088f",
-  "description": "Bổ sung tự động xóa phần video thừa khi Ghép Video: hỗ trợ cắt theo kết thúc lời thoại hoặc thời gian cố định trước khi ghép; cải thiện bố cục node Ghép Video và hoàn thiện preview, xóa logo trong Edit Video."
+  "version": "4.5.5.6",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.6/RUN_VEO_3_ULTRA_PROMAX_4.5.5.6.zip",
+  "sha256": "sha256:9f746e04487cdc0caad4b9341406bad006355f1b33c0a59dc99d3b2accf82e93",
+  "description": "Bổ sung tùy chọn tự động xóa logo Gemini trong node Workflow Generate Image: xử lý ảnh gốc bằng CPU trước khi upscale, hỗ trợ toàn bộ output xN và tự động giữ ảnh ban đầu khi không phát hiện logo hoặc công cụ xử lý gặp lỗi."
 }
