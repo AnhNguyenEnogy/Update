@@ -1,6 +1,6 @@
 {
-  "version": "4.5.5.8",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.8/RUN_VEO_3_ULTRA_PROMAX_4.5.5.8.zip",
-  "sha256": "sha256:e8c172c7f96a8effc83f2ac2fbd7278505c9011bf84c40259415f3038d16e183",
-  "description": "Sửa xóa logo Gemini: cải thiện xóa logo trên video khi tay, chân hoặc vật thể đi qua vùng watermark. Tool tự tìm frame còn logo và dùng MI-GAN CPU nhẹ để khôi phục vùng ảnh, đồng thời giữ nguyên frame khi vật thể đã che kín logo để tránh mảng màu và biến dạng. Bổ sung model vào bản đóng gói, tiếp tục ưu tiên GPU cho frame thường và giữ cơ chế fail-open nếu bộ xóa logo gặp lỗi."
+  "version": "4.5.5.9",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.9/RUN_VEO_3_ULTRA_PROMAX_4.5.5.9.zip",
+  "sha256": "sha256:b02381cfc7d9f2c87764f94eafeeca607ddc8ac59f530c94531c1b315835bccb",
+  "description": "Cập nhật Workflow Danh Sách Ảnh: hỗ trợ xuất image_out_1..N trong cùng một dự án, tự động nối lần lượt vào các node Tạo Ảnh hoặc Tạo Video và giữ dây ảnh chính khi đổi chế độ Khung Hình/Thành Phần. Cập nhật Clone Voice với khoảng trống tùy chọn khi ghép các đoạn; ô thời gian nhận cả dấu chấm, dấu phẩy và không còn tác động nhầm đến node hoặc dây trên Canvas. Cải thiện xử lý logo Gemini trên video để giữ chi tiết và texture ổn định hơn."
 }
