@@ -1,6 +1,6 @@
 {
-  "version": "4.5.5.10",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.10/RUN_VEO_3_ULTRA_PROMAX_4.5.5.10.zip",
-  "sha256": "sha256:8ee28cbe6bf6d661a844713a3448bb0e254ed34d436d18ed4dd2b3fb1012f686",
-  "description": "Cập nhật Workflow Analyze Video với đầu ra Tiêu Đề riêng, đồng bộ cho các chế độ phân tích API/Chrome, cache và kết nối sang node Edit Video. Tối ưu Canvas bằng cách ẩn preview ảnh không cần thiết để giảm lag. Cập nhật node Generate Image: checkbox tự động xóa logo Gemini có viền sáng và được bật mặc định; bổ sung tùy chọn chỉ upload ảnh nhân vật được gọi tên trong prompt, đồng thời tự động quay về hành vi upload toàn bộ khi có ảnh tham chiếu chưa đặt tên để bảo đảm tương thích workflow cũ."
+  "version": "4.5.5.11",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.5.11/RUN_VEO_3_ULTRA_PROMAX_4.5.5.11.zip",
+  "sha256": "sha256:b66a60bcd27903f0feea90794104c664dc6bb7b295c2a56dc125edbe30ac03ed",
+  "description": "Cập nhật Workflow Khớp Video & Voice và Ghép Ảnh tạo video: bổ sung điều chỉnh âm lượng voice/video gốc đồng bộ 50–400%, tùy chọn giữ thêm cảnh cuối theo số giây và xử lý trực tiếp bằng FFmpeg. Chuẩn hóa giao diện checkbox trên toàn bộ Workflow Node, chỉ hiện cấu hình thời gian cảnh cuối khi được bật, đồng thời sửa chiều cao preview động để hình ảnh và các nút hành động luôn nằm trong khung node. Cập nhật prompt Người Que để phân tích đúng số cảnh thực tế nhìn thấy trong video nguồn."
 }
