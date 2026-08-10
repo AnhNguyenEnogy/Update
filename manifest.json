@@ -1,6 +1,6 @@
 {
-  "version": "4.5.7.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.7.3/RUN_VEO_3_ULTRA_PROMAX_4.5.7.3.zip",
-  "sha256": "sha256:4c72df98cf8df0174d3fb5cddfb7eb00d270ccc2682dbb89d47c3c873b27bc13",
-  "description": "Cập nhật tối ưu luồng Tạo Nhân Vật (bổ sung tùy chọn Không tạo giọng, xử lý chạy song song giãn cách 5s, khóa Captcha Gateway và tự động chuyển tiếp tạo video sau khi phân rã Prompt List) (V_4.5.7.3)"
+  "version": "4.5.7.4",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.7.4/RUN_VEO_3_ULTRA_PROMAX_4.5.7.4.zip",
+  "sha256": "sha256:d6228fa6659e08e5a00c0685c3c09efc7cabaf8f6f1bc6590d661ba1da583205",
+  "description": "Sửa lỗi tự động tạo nhân vật (phân lập cổng đầu vào từng nhân vật, bắt buộc checkbox Tự động tạo NV) (V_4.5.7.4)"
 }
