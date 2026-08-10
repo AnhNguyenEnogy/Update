@@ -1,6 +1,6 @@
 {
-  "version": "4.5.7.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.7.4/RUN_VEO_3_ULTRA_PROMAX_4.5.7.4.zip",
-  "sha256": "sha256:d6228fa6659e08e5a00c0685c3c09efc7cabaf8f6f1bc6590d661ba1da583205",
-  "description": "Sửa lỗi tự động tạo nhân vật (phân lập cổng đầu vào từng nhân vật, bắt buộc checkbox Tự động tạo NV) (V_4.5.7.4)"
+  "version": "4.5.7.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.7.5/RUN_VEO_3_ULTRA_PROMAX_4.5.7.5.zip",
+  "sha256": "sha256:9aaa975ad2f8dd98e38ba2a29c54a786ed73833f28efb579291ca78747f3fbc6",
+  "description": "Sửa triệt để lỗi tự động tạo nhân vật (nâng cấp fingerprint 6 thông số, chống tranh chấp token Captcha song song, làm sạch tên giọng Google, viền xoay giữ hiệu ứng chạy cho tới khi hoàn tất 100%) (V_4.5.7.5)"
 }
