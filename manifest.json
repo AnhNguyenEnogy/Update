@@ -1,6 +1,6 @@
 {
-  "version": "4.5.7.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.7.1/RUN_VEO_3_ULTRA_PROMAX_4.5.7.1.zip",
-  "sha256": "sha256:125d8c8d4b23e7fc96dd0e55e48ffc5e1e71fcf704b4475903f441dad7eb53ac",
-  "description": "Nối cổng nhân vật vào Generate Image, tự động mở rộng chiều cao Node frame (V_4.5.7.1)"
+  "version": "4.5.7.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.7.2/RUN_VEO_3_ULTRA_PROMAX_4.5.7.2.zip",
+  "sha256": "sha256:6c1c116e7e2fad015fbecaac324b31a4da2fc5215315e56eb3b1cb2f04b52fcf",
+  "description": "Sửa lỗi luồng tạo nhân vật & tối ưu nối dây tự động Workflow (V_4.5.7.2)"
 }
