@@ -1,6 +1,6 @@
 {
-  "version": "4.5.7.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.7.7/RUN_VEO_3_ULTRA_PROMAX_4.5.7.7.zip",
-  "sha256": "sha256:db59683830bc28a561729a2d9d525560fd2a9206e48b217f6c7385699ad85772",
-  "description": "Fix lỗi tạo nhân vật riêng cho từng dự án (V_4.5.7.8)"
+  "version": "4.5.7.9",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.7.9/RUN_VEO_3_ULTRA_PROMAX_4.5.7.9.zip",
+  "sha256": "sha256:5b4baa65b549896ea90336c3fd2c73d239695cf313d30652a6a65fbace6f80e4",
+  "description": "Fix lỗi lây nhiễm/ghi đè dữ liệu giữa các link sản phẩm Shopee khi tạo Batch (V_4.5.7.9)"
 }
