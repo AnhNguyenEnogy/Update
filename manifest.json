@@ -1,6 +1,6 @@
 {
-  "version": "4.5.7.9",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.7.9/RUN_VEO_3_ULTRA_PROMAX_4.5.7.9.zip",
-  "sha256": "sha256:5b4baa65b549896ea90336c3fd2c73d239695cf313d30652a6a65fbace6f80e4",
-  "description": "Fix lỗi lây nhiễm/ghi đè dữ liệu giữa các link sản phẩm Shopee khi tạo Batch (V_4.5.7.9)"
+  "version": "4.5.8.0",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.8.0/RUN_VEO_3_ULTRA_PROMAX_4.5.8.0.zip",
+  "sha256": "sha256:23b8727e438cd45c6151aaa7db719a52ff07cab0656d88c2285f0213f7acc23c",
+  "description": "Thêm kênh cập nhật TEST theo quyền VPS, nâng cấp updater 1308 và tự dọn cache ZIP."
 }
