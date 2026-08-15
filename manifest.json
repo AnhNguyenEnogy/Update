@@ -1,6 +1,6 @@
 {
-  "version": "4.5.8.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.8.1/RUN_VEO_3_ULTRA_PROMAX_4.5.8.1.zip",
-  "sha256": "sha256:baec34383029e36504289da7535dad4c30d4f746a23e56645957f1f2acc09e77",
-  "description": "Sửa lỗi Ghép Voice không hoạt động sau khi tạo lại đoạn Clone Voice bị lỗi."
+  "version": "4.5.8.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.8.2/RUN_VEO_3_ULTRA_PROMAX_4.5.8.2.zip",
+  "sha256": "sha256:82f05c8678ef0f406bcf4762a35db8dafaa8a20b2ff97d48a2a53b3ef9645c35",
+  "description": "Fix lỗi clone voice "
 }
