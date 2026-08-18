@@ -1,6 +1,6 @@
 {
-  "version": "4.5.8.8",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.8.8/RUN_VEO_3_ULTRA_PROMAX_4.5.8.8.zip",
-  "sha256": "sha256:23f5c892c7f3fa2a0249a9c5deac29dd19a86ca3e099921d46ceede716feca1b",
-  "description": "Fix lỗi tự động nối dây từ node Tạo Ảnh sang node Tạo Video trên Workflow Canvas"
+  "version": "4.5.8.9",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.8.9/RUN_VEO_3_ULTRA_PROMAX_4.5.8.9.zip",
+  "sha256": "sha256:878f500b9051ce3b199ce0e382140c26ee9903c7938dc956a577efeb85e3135a",
+  "description": "Sửa lỗi mất preview video/ảnh khi chuyển dự án, tối ưu quản lý trạng thái kịch bản và chuẩn hóa quy tắc tự động nối dây 1-1 Tạo Ảnh sang Tạo Video trên Workflow Canvas"
 }
