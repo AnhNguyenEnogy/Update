@@ -1,6 +1,6 @@
 {
-  "version": "4.5.8.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.8.6/RUN_VEO_3_ULTRA_PROMAX_4.5.8.6.zip",
-  "sha256": "sha256:111570800e98b01d3481c7f74d4dd7d9d81e26a0a26e0c4e2bc41d9524d0a719",
-  "description": "Update Workflow AI Chat & Analyze Video"
+  "version": "4.5.8.7",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.5.8.7/RUN_VEO_3_ULTRA_PROMAX_4.5.8.7.zip",
+  "sha256": "sha256:a90781991fa6f28c712e0acf241e4fa2f08c65987954ad888720ad70c806f476",
+  "description": "Fix lỗi tự động nối dây từ node Tạo Ảnh sang node Tạo Video trên Workflow Canvas"
 }
