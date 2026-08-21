@@ -1,6 +1,6 @@
 {
-  "version": "4.6.0.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.0.1/RUN_VEO_3_ULTRA_PROMAX_4.6.0.1.zip",
-  "sha256": "sha256:200234bafb006d2f2440d32e2cb6664af78da6c68e3887afd9f1ec4f852d95c8",
-  "description": "Nâng cấp phiên bản 4.6.0.1: Tối ưu hoá UI/UX AI Chat (hiển thị tin nhắn người dùng và tệp đính kèm ngay lập tức, tự động cuộn mượt mà), chuẩn hoá phân tích chuyển động video liên tục theo action beat cho Veo 3 và Gemini Prompt."
+  "version": "4.6.0.2",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.0.2/RUN_VEO_3_ULTRA_PROMAX_4.6.0.2.zip",
+  "sha256": "sha256:849b14df17cf6f4a12fd336d13cea53933be9a04f1ca55e191bc1405a491886e",
+  "description": "Nâng cấp phiên bản 4.6.0.2: Chuẩn hoá lưu và xuất (Export) kịch bản Workflow kèm đầy đủ 100% dữ liệu nhân vật và cấu hình, tự động trích xuất và nạp nhân vật khi Import Workflow / Sử dụng Mẫu Template, bảo toàn dây nối và dynamic ports."
 }
