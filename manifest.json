@@ -1,6 +1,6 @@
 {
-  "version": "4.6.0.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.0.0/RUN_VEO_3_ULTRA_PROMAX_4.6.0.0.zip",
-  "sha256": "sha256:21629c1cbf013631ab8dfac2a907cde5a4d972b8db28504005bcf8b925387db7",
-  "description": "Nâng cấp phiên bản 4.6.0.0: Tối ưu hoá luồng kiểm tra trạng thái node Tạo Nhân Vật (Create Character) trên Workflow, hỗ trợ auto-create character theo dây nối ảnh và đồng bộ entityId theo Google Project ID."
+  "version": "4.6.0.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.0.1/RUN_VEO_3_ULTRA_PROMAX_4.6.0.1.zip",
+  "sha256": "sha256:200234bafb006d2f2440d32e2cb6664af78da6c68e3887afd9f1ec4f852d95c8",
+  "description": "Nâng cấp phiên bản 4.6.0.1: Tối ưu hoá UI/UX AI Chat (hiển thị tin nhắn người dùng và tệp đính kèm ngay lập tức, tự động cuộn mượt mà), chuẩn hoá phân tích chuyển động video liên tục theo action beat cho Veo 3 và Gemini Prompt."
 }
