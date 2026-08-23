@@ -1,6 +1,6 @@
 {
-  "version": "4.6.0.4",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.0.4/RUN_VEO_3_ULTRA_PROMAX_4.6.0.4.zip",
-  "sha256": "sha256:20ce6e94cf4ee78db3e3b94a73664a570f66783ff76507def7bdc84c314a92c3",
-  "description": "Nâng cấp phiên bản 4.6.0.4: Tối ưu hoá toàn diện Workflow Canvas, tích hợp Mini Map điều hướng thời gian thực, chuẩn hóa tỷ lệ khung preview Node theo chuẩn 16:9 / 9:16, nâng cấp bộ 8 thể loại kịch bản chuyên sâu và quy chuẩn an toàn bản quyền AI video."
+  "version": "4.6.0.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.0.5/RUN_VEO_3_ULTRA_PROMAX_4.6.0.5.zip",
+  "sha256": "sha256:3da1833494b646c1195c8c1466b27ae842d3041aac3783ab1e794d44d20bc18f",
+  "description": "Tối ưu giao diện workflow và skill."
 }
