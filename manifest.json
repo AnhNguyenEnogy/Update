@@ -1,6 +1,6 @@
 {
-  "version": "4.6.0.5",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.0.5/RUN_VEO_3_ULTRA_PROMAX_4.6.0.5.zip",
-  "sha256": "sha256:3da1833494b646c1195c8c1466b27ae842d3041aac3783ab1e794d44d20bc18f",
-  "description": "Tối ưu giao diện workflow và skill."
+  "version": "4.6.0.6",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.0.6/RUN_VEO_3_ULTRA_PROMAX_4.6.0.6.zip",
+  "sha256": "sha256:a87cbc64d0045e07084515713f345cea496eb84d077ee19a4d34771373dd7629",
+  "description": "Tối ưu CapCut STT API: chuẩn hóa nhận diện chữ tiếng Việt thuần túy, phân đoạn câu tự nhiên."
 }
