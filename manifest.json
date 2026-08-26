@@ -1,6 +1,6 @@
 {
-  "version": "4.6.0.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.0.7/RUN_VEO_3_ULTRA_PROMAX_4.6.0.7.zip",
-  "sha256": "sha256:3baf457e873a4bf8f80f101845eb1602e8b8495bdf644b4aa32b1781eb27947b",
-  "description": "UPdate tạo lại ảnh.video"
+  "version": "4.6.0.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.0.8/RUN_VEO_3_ULTRA_PROMAX_4.6.0.8.zip",
+  "sha256": "sha256:e96a17d001a5df85b49b880b6caa3a54515cf34f5b07395dc33db9b89a305ee5",
+  "description": "Tích hợp Node Remove Face (Che mặt) vào Workflow Canvas (chọn chế độ che: chủ thể chính/tất cả/theo ảnh mẫu + đặt tên nhân vật đồng bộ workflow @tên)"
 }
