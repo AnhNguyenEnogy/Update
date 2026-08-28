@@ -1,6 +1,6 @@
 {
-  "version": "4.6.1.2",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.1.2/RUN_VEO_3_ULTRA_PROMAX_4.6.1.2.zip",
-  "sha256": "sha256:5586cd8dcba6cfc88277ef348745f7e3dc40cc37fb34326932f132052b1e2981",
-  "description": "Sửa lỗi thư viện Workflow lặp nhóm INPUT/GENERATE và khôi phục node Generate Image bị báo Unknown Node"
+  "version": "4.6.1.3",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.1.3/RUN_VEO_3_ULTRA_PROMAX_4.6.1.3.zip",
+  "sha256": "sha256:0e42afe80050b8cca9bc67a630ac7fd61b447e8a743ae431124cee42aee475c4",
+  "description": "Tích hợp Skill 11 Storyboard ASMR & Product Unboxing OMNI vào Workflow Gemini Prompt; Chuẩn hóa cấu trúc Tiêu đề kèm logo icon và nội dung data/content.txt 4 dòng sạch"
 }
