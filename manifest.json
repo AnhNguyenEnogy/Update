@@ -1,6 +1,6 @@
 {
-  "version": "4.6.3.0",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.0/RUN_VEO_3_ULTRA_PROMAX_4.6.3.0.zip",
-  "sha256": "sha256:fcc0f2cccd65fcb02f94bc9b3ec0a6c481b0857e7bb6f9a190bf04d1d4ec9e84",
-  "description": "- Tăng thời gian chờ tìm ô và nút nhập mật khẩu lên 5 phút (300 giây) trong luồng Auto Login Google (Account 1).\n- Bổ sung log cập nhật tiến trình chờ theo từng phút, hỗ trợ tối đa cho việc giải Captcha/2FA linh hoạt.\n- Tự động điền mật khẩu và tự động click nút Next sau khi nhập mật khẩu."
+  "version": "4.6.3.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.1/RUN_VEO_3_ULTRA_PROMAX_4.6.3.1.zip",
+  "sha256": "sha256:6865e6fdd4ed199f507bec597e027143551ac90263474e665528143987e3a912",
+  "description": "- Tối ưu bộ mã hóa Edit Video (NVENC CQ 23 / CPU CRF 22): Khắc phục triệt để lỗi video bị phình to dung lượng (từ 18MB lên >28MB) khi bật zoom 104% xóa logo Veo hoặc chỉnh sửa video, giảm 45-55% dung lượng mà vẫn giữ trọn vẹn độ sắc nét.\n- Fix lỗi mất dây nối Kho Nhân Vật (Character Hub) khi tắt mở lại tool hoặc nạp lại workflow.\n- Bổ sung tính năng khai báo tham chiếu ảnh/media có đặt tên cho node Gemini Prompt.\n- Bổ sung kiểm soát bản quyền Kho Ảnh Nhân Vật (license Kho Ảnh NV).\n- Nâng cấp luồng Auto Login Veo3 sang API tạo project và trích xuất token/cookie ổn định."
 }
