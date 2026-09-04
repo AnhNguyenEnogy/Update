@@ -1,6 +1,6 @@
 {
-  "version": "4.6.1.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.1.3/RUN_VEO_3_ULTRA_PROMAX_4.6.1.3.zip",
-  "sha256": "sha256:0e42afe80050b8cca9bc67a630ac7fd61b447e8a743ae431124cee42aee475c4",
-  "description": "Tích hợp Skill 11 Storyboard ASMR & Product Unboxing OMNI vào Workflow Gemini Prompt; Chuẩn hóa cấu trúc Tiêu đề kèm logo icon và nội dung data/content.txt 4 dòng sạch"
+  "version": "4.6.3.0",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.0/RUN_VEO_3_ULTRA_PROMAX_4.6.3.0.zip",
+  "sha256": "sha256:fcc0f2cccd65fcb02f94bc9b3ec0a6c481b0857e7bb6f9a190bf04d1d4ec9e84",
+  "description": "- Tăng thời gian chờ tìm ô và nút nhập mật khẩu lên 5 phút (300 giây) trong luồng Auto Login Google (Account 1).\n- Bổ sung log cập nhật tiến trình chờ theo từng phút, hỗ trợ tối đa cho việc giải Captcha/2FA linh hoạt.\n- Tự động điền mật khẩu và tự động click nút Next sau khi nhập mật khẩu."
 }
