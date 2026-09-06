@@ -1,6 +1,6 @@
 {
-  "version": "4.6.3.2",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.3/RUN_VEO_3_ULTRA_PROMAX_4.6.3.3.zip",
-  "sha256": "sha256:9ac62418597b93f910946d73d4f903c6fcd168c5df561d172d65557655fd2ad1",
-  "description": "- Fix lỗi tạo nhân vật"
+  "version": "4.6.3.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.5/RUN_VEO_3_ULTRA_PROMAX_4.6.3.5.zip",
+  "sha256": "sha256:41ed9ed0965d040849b766f6fc35635da446e3dc4c5f3a48419d6405eb23255a",
+  "description": "- Ổn định Captcha V3 khi có nhiều request đồng thời: dùng một tab/page duy nhất, xếp hàng an toàn và tự phục hồi khi navigation làm mất reCAPTCHA.\n- Tự retry khi token V3 rỗng/lỗi, hủy future bị timeout để không làm treo các request phía sau.\n- Đã kiểm thử thực tế 100 request: 100/100 token hợp lệ.\n- Bỏ popup lưu LINK project thủ công trong luồng Profile TOKEN; hướng dẫn mới đăng nhập, chờ 15 giây rồi đóng trình duyệt và sử dụng bình thường."
 }
