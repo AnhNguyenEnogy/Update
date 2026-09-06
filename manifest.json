@@ -1,6 +1,6 @@
 {
-  "version": "4.6.3.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.1/RUN_VEO_3_ULTRA_PROMAX_4.6.3.1.zip",
-  "sha256": "sha256:6865e6fdd4ed199f507bec597e027143551ac90263474e665528143987e3a912",
-  "description": "- Tối ưu bộ mã hóa Edit Video (NVENC CQ 23 / CPU CRF 22): Khắc phục triệt để lỗi video bị phình to dung lượng (từ 18MB lên >28MB) khi bật zoom 104% xóa logo Veo hoặc chỉnh sửa video, giảm 45-55% dung lượng mà vẫn giữ trọn vẹn độ sắc nét.\n- Fix lỗi mất dây nối Kho Nhân Vật (Character Hub) khi tắt mở lại tool hoặc nạp lại workflow.\n- Bổ sung tính năng khai báo tham chiếu ảnh/media có đặt tên cho node Gemini Prompt.\n- Bổ sung kiểm soát bản quyền Kho Ảnh Nhân Vật (license Kho Ảnh NV).\n- Nâng cấp luồng Auto Login Veo3 sang API tạo project và trích xuất token/cookie ổn định."
+  "version": "4.6.3.3",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.3/RUN_VEO_3_ULTRA_PROMAX_4.6.3.3.zip",
+  "sha256": "sha256:9ac62418597b93f910946d73d4f903c6fcd168c5df561d172d65557655fd2ad1",
+  "description": "- Fix lỗi tạo nhân vật"
 }
