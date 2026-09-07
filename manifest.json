@@ -1,6 +1,6 @@
 {
-  "version": "4.6.3.6",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.6/RUN_VEO_3_ULTRA_PROMAX_4.6.3.6.zip",
-  "sha256": "sha256:ff0c1ddc842b6d17398c3da46ecbcc5865be591376a740633422171a598cb6c1",
-  "description": "- Cải thiện độ ổn định Captcha V2/V3 khi chạy số lượng lớn và tự khởi động lại Chrome lấy token theo ngưỡng cấu hình.\n- Bổ sung cơ chế tiếp tục nhận request trong lúc Chrome lấy token được khởi động lại.\n- Cập nhật workflow và cấu hình Gemini mới, đồng thời làm sạch prompt workflow Thiên Chúa/Sức Khỏe theo phiên bản hiện tại.\n- Đã kiểm tra build và đóng gói bản phát hành."
+  "version": "4.6.3.7",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.7/RUN_VEO_3_ULTRA_PROMAX_4.6.3.7.zip",
+  "sha256": "sha256:b2b6f3868bbbf5fa2025ac4153ae836fff4f289215b71c5250b6d0bda39d85d9",
+  "description": "- Fix lỗi tạo nhân vật trong Workflow, bảo đảm nhân vật được tạo và truyền đúng ảnh đầu vào cho các node phía sau.\n- Bổ sung hỗ trợ lấy và xử lý danh sách nhiều ảnh sản phẩm thay vì chỉ cập nhật một ảnh.\n- Gemini Prompt và các node tạo ảnh có thể nhận đầy đủ danh sách ảnh sản phẩm để tham chiếu.\n- Đã kiểm tra build và đóng gói bản phát hành."
 }
