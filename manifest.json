@@ -1,6 +1,6 @@
 {
-  "version": "4.6.3.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.7/RUN_VEO_3_ULTRA_PROMAX_4.6.3.7.zip",
-  "sha256": "sha256:b2b6f3868bbbf5fa2025ac4153ae836fff4f289215b71c5250b6d0bda39d85d9",
-  "description": "- Fix lỗi tạo nhân vật trong Workflow, bảo đảm nhân vật được tạo và truyền đúng ảnh đầu vào cho các node phía sau.\n- Bổ sung hỗ trợ lấy và xử lý danh sách nhiều ảnh sản phẩm thay vì chỉ cập nhật một ảnh.\n- Gemini Prompt và các node tạo ảnh có thể nhận đầy đủ danh sách ảnh sản phẩm để tham chiếu.\n- Đã kiểm tra build và đóng gói bản phát hành."
+  "version": "4.6.3.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.8/RUN_VEO_3_ULTRA_PROMAX_4.6.3.8.zip",
+  "sha256": "sha256:94929fba3c00fc4d642c16d72a45cd6f620d4bc18a35cc6492ce382e8d64df16",
+  "description": "Thêm link vào nội dung mô tả."
 }
