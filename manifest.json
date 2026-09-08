@@ -1,6 +1,6 @@
 {
-  "version": "4.6.3.8",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.8/RUN_VEO_3_ULTRA_PROMAX_4.6.3.8.zip",
-  "sha256": "sha256:94929fba3c00fc4d642c16d72a45cd6f620d4bc18a35cc6492ce382e8d64df16",
-  "description": "Thêm link vào nội dung mô tả."
+  "version": "4.6.3.9",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.9/RUN_VEO_3_ULTRA_PROMAX_4.6.3.9.zip",
+  "sha256": "sha256:6df14fca3d095a7fbcfe6530c31d53328702ea16df9e40a1785fd1854ceba1bf",
+  "description": "Tối ưu hóa và sửa triệt để lỗi treo/token rỗng Captcha V2 và Captcha V3 trên máy cấu hình thấp; tăng cường watchdog timeout và bảo đảm 100% luồng chạy tuần tự ổn định."
 }
