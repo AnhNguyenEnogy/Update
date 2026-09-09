@@ -1,6 +1,6 @@
 {
-  "version": "4.6.3.9",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.9/RUN_VEO_3_ULTRA_PROMAX_4.6.3.9.zip",
-  "sha256": "sha256:6df14fca3d095a7fbcfe6530c31d53328702ea16df9e40a1785fd1854ceba1bf",
-  "description": "Tối ưu hóa và sửa triệt để lỗi treo/token rỗng Captcha V2 và Captcha V3 trên máy cấu hình thấp; tăng cường watchdog timeout và bảo đảm 100% luồng chạy tuần tự ổn định."
+  "version": "4.6.3.10",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.10/RUN_VEO_3_ULTRA_PROMAX_4.6.3.10.zip",
+  "sha256": "sha256:b0a1e2f2304c47412b47750940b5bf181cc66c7330f8123c77c5b03ef65b6fd5",
+  "description": "V4.6.3.10 - Fix GPT/ChatGPT ImageGen\n\n- Sửa luồng GPT chọn đúng chế độ Create image trước khi điền và gửi prompt.\n- Rút gọn prompt gửi lên GPT, tránh bị phình nội dung hoặc bị chặn không cần thiết.\n- Thêm cơ chế single-flight, chặn double-click và gửi prompt trùng khi request trước chưa hoàn tất.\n- Sửa ChatGPT Backend API/Qt WebEngine bridge sau navigation, hỗ trợ fallback conversation ID và accessToken/cookie ổn định hơn.\n- Chỉ tải ảnh sau khi ImageGen hoàn tất và danh sách asset ổn định; hỗ trợ tải đủ carousel nhiều ảnh qua API.\n- Đặt Captcha V2 làm mặc định trong Settings khi cấu hình chưa có giá trị.\n"
 }
