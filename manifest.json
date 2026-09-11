@@ -1,6 +1,6 @@
 {
-  "version": "4.6.3.9",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.9/RUN_VEO_3_ULTRA_PROMAX_4.6.3.9.zip",
-  "sha256": "sha256:6df14fca3d095a7fbcfe6530c31d53328702ea16df9e40a1785fd1854ceba1bf",
-  "description": "update"
+  "version": "4.6.3.11",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.11/RUN_VEO_3_ULTRA_PROMAX_4.6.3.11.zip",
+  "sha256": "sha256:aeca5e82adde49e1e2411c28f360176b82bb96daed77bb9ef258f4cf40732484",
+  "description": "Fix lỗi login"
 }
