@@ -1,6 +1,6 @@
 {
-  "version": "4.6.3.16",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.3.16/RUN_VEO_3_ULTRA_PROMAX_4.6.3.16.zip",
-  "sha256": "sha256:f8c5f07998dd0e0af68ad877f8dc1a176563133f631d251e977f31db481265fb",
-  "description": "tối ưu lấy thông tin Shopee tốc độ cao không cần login"
+  "version": "4.6.4.1",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.4.1/RUN_VEO_3_ULTRA_PROMAX_4.6.4.1.zip",
+  "sha256": "sha256:087960e4a607cf84c6dccfafec02a0755d4ee1c875bdf6055778132fe27030dc",
+  "description": "update luồng lấy thông tin shopee"
 }
