@@ -1,6 +1,6 @@
 {
-  "version": "4.6.4.3",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.4.3/RUN_VEO_3_ULTRA_PROMAX_4.6.4.3.zip",
-  "sha256": "sha256:9c66f0b17b9d3f8f2bf8fedd2d514c163be19f9b7e1f51c3ca928bb30df44f44",
-  "description": "fix lỗi multi account tự động tạo lại nhân vật và mở rộng cấu hình AI chat"
+  "version": "4.6.4.5",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.4.5/RUN_VEO_3_ULTRA_PROMAX_4.6.4.5.zip",
+  "sha256": "sha256:8ac08a2932df83331fc6acd280a0d484da9e881cd4937551ab6007e4a1d717e0",
+  "description": "- Khắc phục triệt để lỗi Upscale Online 4K cho Ảnh và Video trên Multi-Account (401 Mismatched CSRF).\n- Xóa bỏ hoàn toàn fallback Local Upscale khi cấu hình Online Upscale.\n- Chuẩn hóa session cookie Google Flow, cơ chế tự động khôi phục bootstrap token và chống kẹt trang /about khi lấy captcha.\n- Đồng bộ toàn bộ tài khoản trong pool và tối ưu hiệu suất Workflow song song."
 }
