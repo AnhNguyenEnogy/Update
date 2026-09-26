@@ -1,6 +1,6 @@
 {
-  "version": "4.6.4.5",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.4.5/RUN_VEO_3_ULTRA_PROMAX_4.6.4.5.zip",
-  "sha256": "sha256:434cfa3ede37b2f3b5b784b7fd49b0431564a9ed6a6ee48fda5acfac11e3ea10",
-  "description": "- Khắc phục triệt để lỗi Upscale Online 4K cho Ảnh và Video trên Multi-Account (401 Mismatched CSRF).\n- Xóa bỏ hoàn toàn fallback Local Upscale khi cấu hình Online Upscale.\n- Chuẩn hóa session cookie Google Flow, cơ chế tự động khôi phục bootstrap token và chống kẹt trang /about khi lấy captcha.\n- Đồng bộ toàn bộ tài khoản trong pool và tối ưu hiệu suất Workflow song song."
+  "version": "4.6.4.6",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.4.6/RUN_VEO_3_ULTRA_PROMAX_4.6.4.6.zip",
+  "sha256": "sha256:fffba45c60c2833a36b1b8321747387255765a1160a4826215e4985810ecb6e3",
+  "description": "- Khắc phục triệt để lỗi \"No module named 'client'\" khi chạy file EXE đóng gói.\n- Chuẩn hóa toàn bộ cấu trúc import trong thư mục API_NEW và các module con.\n- Bổ sung đầy đủ toàn bộ hơn 100 modules và các package vào cấu hình đóng gói Nuitka.\n- Tối ưu dung lượng gói phát hành: loại bỏ thư mục tools/ trùng lặp thừa, giảm hơn 100MB dung lượng."
 }
