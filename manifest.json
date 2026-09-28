@@ -1,6 +1,6 @@
 {
-  "version": "4.6.4.7",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.4.7/RUN_VEO_3_ULTRA_PROMAX_4.6.4.7.zip",
-  "sha256": "sha256:7a17e63a63f346dd572e10b89ef83b53252d977de7b3d7d837b7aeb5d526078a",
-  "description": "- Cập nhật chuẩn hóa toàn diện cấu hình đóng gói Nuitka: bổ sung 100% từng file module độc lập, triệt tiêu hoàn toàn nguy cơ thiếu module runtime.\n- Bổ sung module Upscale ảnh Online 2K/4K (API_upscale_image) qua Google Flow Web RPC (SPrCad).\n- Khôi phục và tích hợp đầy đủ bộ ba module cào dữ liệu Shopee (fall_back_shopee: shopee_v1_ssr, shopee_v2_tls, shopee_v3_pdp_bff).\n- Bổ sung đầy đủ các module core và giao diện: antigravity_conpty, jev_client, tool_chrome_cleanup, toàn bộ 25 module giao diện qt_ui và các adapter API_NEW.API_I2V."
+  "version": "4.6.4.8",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/V4.6.4.8/RUN_VEO_3_ULTRA_PROMAX_4.6.4.8.zip",
+  "sha256": "sha256:1a422476967a64f21408c31c7ff6e8bd1d6d42c3ca59d6579671ac0edfc346b3",
+  "description": "- Sửa Batch Prompt List: Gemini/Analyze trả danh sách nhiều cảnh sẽ dừng scheduler cũ trước khi graph cũ có thể nhảy sang Merge.\n- Batch luôn phẳng hóa JSON và chạy lại Generate Video theo danh sách prompt mới, kể cả khi project đang mở trên Canvas.\n- Khi prompt thay đổi nhưng số cảnh giữ nguyên, video cũ và Merge/Edit downstream được vô hiệu để render lại đúng nội dung mới.\n- Gemini Prompt luôn dùng cookie mới nhất đọc từ Chrome CDP, không để cache gemini_webapi ghi đè session."
 }
