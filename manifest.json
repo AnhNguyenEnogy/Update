@@ -1,6 +1,6 @@
 {
-  "version": "4.6.5.1",
-  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.6.5.1/RUN_VEO_3_ULTRA_PROMAX_4.6.5.1.zip",
-  "sha256": "sha256:f7dbfe64d2d65fc94bea66475efd84e36701bc6325809f135395386aab3c4a17",
-  "description": "- Sửa Batch Prompt List: Gemini/Analyze trả danh sách nhiều cảnh sẽ dừng scheduler cũ trước khi graph cũ có thể nhảy sang Merge.\n- Batch luôn phẳng hóa JSON và chạy lại Generate Video theo danh sách prompt mới, kể cả khi project đang mở trên Canvas.\n- Khi prompt thay đổi nhưng số cảnh giữ nguyên, video cũ và Merge/Edit downstream được vô hiệu để render lại đúng nội dung mới.\n- Gemini Prompt luôn dùng cookie mới nhất đọc từ Chrome CDP, không để cache gemini_webapi ghi đè session.\n- Đóng gói standalone chỉ được phép tiếp tục khi toàn bộ runtime (upscale, browser driver, watermark, extension và asset dữ liệu) đã khớp source; ZIP cũng được đối chiếu toàn bộ payload dist."
+  "version": "4.6.5.3",
+  "url": "https://github.com/AnhNguyenEnogy/Update/releases/download/v4.5.6.3/RUN_VEO_3_ULTRA_PROMAX_4.6.5.3.zip",
+  "sha256": "sha256:5085306bee98a9b02b3185773d77f6575e2435e8895388953cce31dea91700db",
+  "description": "Update google Vids"
 }
